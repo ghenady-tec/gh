@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Explorador - bancodedados</title>
+  <style>
+    :root{--bg:#071029;--panel:#061523;--accent:#0ea5ff;--muted:#cfe8ff}
+
+    body{margin:0;font-family:Segoe UI, Roboto, Arial, sans-serif;background:var(--bg);color:var(--muted)}
+
+    #sidebar{width:360px;height:100vh;box-sizing:border-box;padding:12px;background:linear-gradient(180deg,var(--panel),#020615);overflow:auto}
+
+    .controls{display:flex;gap:8px;align-items:center;margin-bottom:12px}
+
+    .btn{background:transparent;border:1px solid rgba(255,255,255,0.04);color:var(--muted);padding:6px 8px;border-radius:6px;cursor:pointer}
+
+    #search-bar{flex:1;padding:6px;border-radius:6px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:var(--muted)}
+
+    #current-path{font-size:13px;color:#9fb2c9}
+
+    ul#file-list{list-style:none;margin:10px 0;padding:0; 
+    }
+
+    li.item{margin:6px 0;background: #1c313d; }
+     li.item:hover{border: 1px solid #0ea5ff;
+    border-radius: 8px; }
+    .folder{display:flex;align-items:center;gap:8px;cursor:pointer;color:var(--accent);font-weight:600}
+
+    .folder .label{flex:1}
+
+    .file{display:flex;align-items:center;gap:8px;color:var(--muted)}
+
+    .nested{list-style:none;padding-left:18px;margin:6px 0 0 0;display:none}
+
+    .nested.active{display:block}
+
+    .icon{width:20px;text-align:center}
+
+    .icon.folder{color:var(--accent)}
+
+    .icon.pdf{color:#ffda79}
+
+    .icon.img{color:#8be9a8}
+
+    a{color:inherit;text-decoration:none}
+
+    .muted{color:#95b5c9;font-size:12px}
+
+
+    #app {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* Sidebar continua fixa */
+#sidebar {
+  flex: 0 0 360px;
+  
+}
+
+/* Área principal */
+#main-view {
+  flex: 1;
+  background-image: url('https://images.unsplash.com/photo-1518770660439-4636190af475');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  
+}
+#main-view {
+  user-select: none;          /* impede seleção */
+  -webkit-user-drag: none;    /* impede arrastar imagens em WebKit */
+  -webkit-touch-callout: none; /* impede menu de toque em iOS */
+}
+
+/* leve overlay para combinar com o tema */
+#main-view::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(7,16,41,0.25),
+    rgba(7,16,41,0.65)
+  );
+  
+}
+#sidebar {
+  user-select: none;          /* impede seleção de texto */
+  -webkit-user-drag: none;    /* impede arrastar imagens/icons */
+  -webkit-touch-callout: none; /* impede menu de toque em iOS */
+}
+#back-btn svg {
+    color: #0ea5ff;
+    border: 2px solid #0ea5ff;
+    border-radius: 8px;
+}
+#search-bar {
+    background: rgba(0, 0, 0, 0.445);
+    border: 2px solid rgb(14, 167, 255);
+    color: #cfe8ff;
+}
+
+  </style>
+</head>
+<body>
+  <div id="app">
+    <div id="sidebar">
+      <div class="controls">
+        <button id="back-btn" class="btn" title="Pesquisar">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="28" height="28" fill="currentColor">
+    <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" fill="none"/>
+    <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+  </svg>
+</button>
+
+
+        <input id="search-bar" placeholder="Pesquisar arquivos" />
+        
+      </div>
+
+      <ul id="file-list"></ul>
+    </div>
+
+    <!-- ÁREA PRINCIPAL -->
+    <div id="main-view"></div>
+  </div>
+
+  <script>
+    const TREE_JSON = 'https://ghenady-tec.github.io/gh/tree.json';
+    const GH_PAGES_BASE = 'https://ghenady-tec.github.io/bancodedados/';
+
+    let flatTree = [];
+    let root = {name:'', children: {}, type: 'tree'};
+    let currentPath = '';
+
+    function buildTreeFromFlat(list) {
+      const rootNode = { name: '', children: {}, type: 'tree' };
+      list.forEach(entry => {
+        const parts = entry.path.split('/').filter(Boolean);
+        let cursor = rootNode;
+        for (let i = 0; i < parts.length; i++) {
+          const part = parts[i];
+          const isLast = i === parts.length - 1;
+          if (isLast) {
+            if (entry.type === 'tree') {
+              cursor.children[part] = cursor.children[part] || { name: part, children: {}, type: 'tree', path: (cursor.path?cursor.path + '/' + part:part) };
+            } else {
+              cursor.children[part] = { name: part, type: 'blob', path: (cursor.path?cursor.path + '/' + part:part) };
+            }
+          } else {
+            cursor.children[part] = cursor.children[part] || { name: part, children: {}, type: 'tree', path: (cursor.path?cursor.path + '/' + part:part) };
+            cursor = cursor.children[part];
+          }
+        }
+      });
+      return rootNode;
+    }
+
+ function renderNodeChildren(node, container, searchTerm = '') {
+  const entries = Object.values(node.children).sort((a,b)=>{
+    if(a.type===b.type) return a.name.localeCompare(b.name);
+    return a.type==='tree' ? -1:1;
+  });
+
+  entries.forEach(entry => {
+    const li = document.createElement('li');
+    li.className = 'item';
+
+    const match = searchTerm && entry.name.toLowerCase().includes(searchTerm.toLowerCase());
+
+    if (entry.type === 'tree') {
+      const folder = document.createElement('div');
+      folder.className = 'folder';
+      const icon = document.createElement('div'); 
+      icon.className = 'icon folder'; 
+      icon.textContent = '📁';
+      const label = document.createElement('div'); 
+      label.className = 'label'; 
+      label.textContent = entry.name;
+      folder.appendChild(icon); 
+      folder.appendChild(label);
+
+      const nested = document.createElement('ul'); 
+      nested.className = 'nested';
+
+      // Abre automaticamente se algum filho recursivamente bate com a pesquisa
+      if (searchTerm && hasMatchingChild(entry, searchTerm)) {
+        nested.classList.add('active');
+      }
+
+      folder.addEventListener('click', () => {
+        nested.classList.toggle('active');
+        if (!nested.classList.contains('active')) { nested.innerHTML = ''; return; }
+        if (nested.children.length > 0) return;
+        renderNodeChildren(entry, nested, searchTerm);
+      });
+
+      li.appendChild(folder);
+      li.appendChild(nested);
+
+      // Renderiza filhos se pasta foi aberta automaticamente
+      if (nested.classList.contains('active')) {
+        renderNodeChildren(entry, nested, searchTerm);
+      }
+
+      if (match) folder.style.border = '1px solid #0ea5ff'; // borda azul se a pasta em si bateu
+    } else {
+      const file = document.createElement('div');
+      file.className = 'file';
+      const ext = (entry.name || entry.path || '').split('.').pop().toLowerCase();
+      const icon = document.createElement('div'); 
+      icon.className = 'icon ' + (ext==='pdf'?'pdf':(['png','jpg','jpeg','gif','svg','webp'].includes(ext)?'img':'other'));
+      icon.textContent = ext==='pdf' ? '📄' : (['png','jpg','jpeg','gif','svg','webp'].includes(ext) ? '🖼️' : '📎');
+      const a = document.createElement('a');
+      a.textContent = entry.name;
+
+      if (ext === 'pdf') {
+        const viewer = 'https://bizoonydb.github.io/sumatrapdfdb/viewer?file=';
+        a.href = viewer + encodeURIComponent(GH_PAGES_BASE + entry.path);
+      } else if (['jpg','jpeg','png','gif','webp','bmp','svg'].includes(ext)) {
+        const imgViewer = 'https://ghenady-tec.github.io/gh/imageview.html?file=';
+        a.href = imgViewer + encodeURIComponent(GH_PAGES_BASE + entry.path);
+      } else {
+        a.href = encodeURI(GH_PAGES_BASE + entry.path);
+      }
+
+      a.target = '_blank';
+      file.appendChild(icon);
+      file.appendChild(a);
+
+      // borda azul se arquivo bateu com a pesquisa
+      if (match) file.style.border = '1px solid #0ea5ff';
+
+      li.appendChild(file);
+    }
+
+    container.appendChild(li);
+  });
+}
+
+
+
+    async function loadTree() {
+      try {
+        const resp = await fetch(TREE_JSON);
+        if (!resp.ok) throw new Error(`Erro ${resp.status}`);
+        const data = await resp.json();
+        flatTree = data;
+        root = buildTreeFromFlat(flatTree);
+        const fileList = document.getElementById('file-list');
+        fileList.innerHTML = '';
+        renderNodeChildren(root, fileList);
+      } catch (err) {
+        document.getElementById('file-list').innerHTML = `<li style="color:red">Erro ao carregar tree.json: ${err.message}</li>`;
+      }
+    }
+
+  function search() {
+  const q = document.getElementById('search-bar').value.trim().toLowerCase();
+  const fileList = document.getElementById('file-list'); 
+  fileList.innerHTML = '';
+
+  if (!q) {
+    loadTree(); 
+    return;
+  }
+
+  // Cria árvore temporária apenas com resultados, mantendo hierarquia
+  const tmpRoot = { name: '', children: {}, type: 'tree' };
+
+  flatTree.forEach(entry => {
+    const pathParts = entry.path.split('/').filter(Boolean);
+    const entryName = pathParts[pathParts.length - 1].toLowerCase();
+    const match = entry.path.toLowerCase().includes(q) || entryName.includes(q);
+    if (!match) return;
+
+    let cursor = tmpRoot;
+    pathParts.forEach((part, i) => {
+      const isLast = i === pathParts.length - 1;
+      if (!cursor.children[part]) {
+        cursor.children[part] = isLast
+          ? (entry.type === 'tree'
+              ? { name: part, children: {}, type: 'tree', path: entry.path }
+              : { name: part, type: 'blob', path: entry.path })
+          : { name: part, children: {}, type: 'tree', path: cursor.path ? cursor.path + '/' + part : part };
+      }
+      cursor = cursor.children[part];
+    });
+  });
+
+  renderNodeChildren(tmpRoot, fileList, q); // passa termo de busca para marcar borda azul
+}
+function hasMatchingChild(node, searchTerm) {
+  if (!node.children) return false;
+  return Object.values(node.children).some(child => {
+    if (child.name.toLowerCase().includes(searchTerm.toLowerCase())) return true;
+    if (child.type === 'tree') return hasMatchingChild(child, searchTerm);
+    return false;
+  });
+}
+
+
+
+    document.getElementById('search-bar').addEventListener('input', () => { search(); });
+   
+
+    loadTree();
+
+    const mainView = document.getElementById('main-view');
+
+/* Bloquear clique com botão direito */
+mainView.addEventListener('contextmenu', (e) => {
+  e.preventDefault();
+});
+
+/* Bloquear qualquer dragstart dentro do main-view */
+mainView.addEventListener('dragstart', (e) => {
+  e.preventDefault();
+});
+
+/* Bloquear mouse down direito dentro do main-view */
+mainView.addEventListener('mousedown', (e) => {
+  if (e.button === 2) e.preventDefault();
+});
+const sidebar = document.getElementById('sidebar');
+
+/* Bloquear clique com botão direito */
+sidebar.addEventListener('contextmenu', (e) => {
+  e.preventDefault();
+});
+
+/* Bloquear drag dentro da sidebar */
+sidebar.addEventListener('dragstart', (e) => {
+  e.preventDefault();
+});
+
+/* Bloquear mouse down direito */
+sidebar.addEventListener('mousedown', (e) => {
+  if (e.button === 2) e.preventDefault();
+});
+
+  </script>
+</body>
+</html>
