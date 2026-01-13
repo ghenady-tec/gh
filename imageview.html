@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Visualizador de Imagem</title>
+
+<style>
+    :root{--bg:#06203a;--panel:#083058;--accent:#2fb0ff;--muted:#cfe8ff}
+    body {
+        margin: 0;
+    
+        background: #06203a;
+        color: var(--muted);
+        overflow: hidden;
+        font-family: Arial, sans-serif;
+    }
+
+    
+
+    #viewer{position:fixed;inset:0;overflow:hidden;background:transparent}
+    #viewer .canvas{position:relative;width:100%;height:100%}
+
+    img{position:absolute;left:0;top:0;will-change:transform;transform-origin:0 0;touch-action:none;user-select:none;cursor:grab}
+    /* Top-right horizontal controls */
+    #top-right-controls{position:fixed;top:12px;right:96px;display:flex;gap:8px;z-index:70}
+    #top-right-controls .svg-btn{width:40px;height:40px}
+
+
+
+
+    /* Barra azul topo esquerdo */
+#top-left-bar {
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    display: flex;
+    gap: 8px;
+    padding: 8px 10px;
+    background: linear-gradient(180deg,#0b4f87,#083a66);
+    border-radius: 10px;
+    box-shadow: 0 8px 22px rgba(0,0,0,0.35);
+    z-index: 80;
+    backdrop-filter: blur(6px);
+}
+
+#top-left-bar .bar-btn {
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+#top-left-bar .bar-btn:hover {
+    background: rgba(255,255,255,0.2);
+    transform: translateY(-1px);
+}
+
+#top-left-bar svg {
+    width: 20px;
+    height: 20px;
+    fill: #e6f4ff;
+}
+
+#top-left-bar svg {
+    fill: none;
+    stroke: #e6f4ff;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+</style>
+</head>
+
+<body>
+
+<div id="top-left-bar">
+    <div class="bar-btn" id="bar-rotate-left" title="Girar para a esquerda">
+        <svg viewBox="0 0 24 24">
+            <path d="M12 5 A7 7 0 1 0 19 12"
+                  stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" fill="none"/>
+            <path d="M9 5 L12 2 L15 5"
+                  stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </svg>
+    </div>
+
+    <div class="bar-btn" id="bar-rotate-right" title="Girar para a direita">
+        <svg viewBox="0 0 24 24">
+            <path d="M12 5 A7 7 0 1 1 5 12"
+                  stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" fill="none"/>
+            <path d="M15 5 L12 2 L9 5"
+                  stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        </svg>
+    </div>
+</div>
+
+
+
+
+
+<div id="viewer"><div class="canvas"><img id="image" alt="Imagem"></div></div>
+
+
+
+<script>
+    const img = document.getElementById('image');
+    const viewer = document.getElementById('viewer');
+   
+    let scale = 1;
+    let rotation = 0;
+    let translateX = 0;
+    let translateY = 0;
+    let isPanning = false;
+    let panStartX = 0;
+    let panStartY = 0;
+
+    const barRotL = document.getElementById('bar-rotate-left');
+const barRotR = document.getElementById('bar-rotate-right');
+
+barRotL.addEventListener('click', () => rotate(-90));
+barRotR.addEventListener('click', () => rotate(90));
+
+
+    // Carrega imagem pelo ?file=
+    const params = new URLSearchParams(window.location.search);
+    const file = params.get('file');
+
+    if (!file) {
+        alert('Use ?file=URL_DA_IMAGEM');
+    } else {
+        img.src = file;
+    }
+
+    function updateTransform() {
+        img.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale}) rotate(${rotation}deg)`;
+    }
+
+    // Zoom com mouse
+    // Wheel zoom focused at cursor
+    window.addEventListener('wheel', (e) => {
+        e.preventDefault();
+        const beforeScale = scale;
+        const factor = e.deltaY < 0 ? 1.12 : 1/1.12;
+
+        // position relative to image
+        const rect = img.getBoundingClientRect();
+        const offsetX = e.clientX - rect.left;
+        const offsetY = e.clientY - rect.top;
+
+        const localX = offsetX / beforeScale;
+        const localY = offsetY / beforeScale;
+
+        scale = Math.max(0.05, scale * factor);
+
+        // adjust translate so that the point under cursor stays
+        translateX -= (localX) * (scale - beforeScale);
+        translateY -= (localY) * (scale - beforeScale);
+
+        updateTransform();
+    }, { passive: false });
+
+    // Rotação
+  function rotate(deg) {
+    // Centro atual da imagem na tela
+    const rect = img.getBoundingClientRect();
+    const cx = rect.left + rect.width / 2;
+    const cy = rect.top + rect.height / 2;
+
+    // Atualiza rotação
+    rotation = (rotation + deg) % 360;
+    updateTransform();
+
+    // Novo centro após rotação
+    const rect2 = img.getBoundingClientRect();
+    const cx2 = rect2.left + rect2.width / 2;
+    const cy2 = rect2.top + rect2.height / 2;
+
+    // Compensa deslocamento para manter centro fixo
+    translateX += cx - cx2;
+    translateY += cy - cy2;
+
+    updateTransform();
+}
+
+
+    // Pointer (mouse/touch) pan
+    // Prevent browser's native drag and ensure pointer-based panning
+    img.draggable = false;
+    img.addEventListener('dragstart', (e) => e.preventDefault());
+
+    img.addEventListener('pointerdown', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        try { img.setPointerCapture(e.pointerId); } catch(_){}
+        isPanning = true;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        img.style.cursor = 'grabbing';
+    });
+
+    window.addEventListener('pointermove', (e) => {
+        if (!isPanning) return;
+        const dx = e.clientX - panStartX;
+        const dy = e.clientY - panStartY;
+        panStartX = e.clientX;
+        panStartY = e.clientY;
+        translateX += dx;
+        translateY += dy;
+        updateTransform();
+    });
+
+    window.addEventListener('pointerup', (e) => {
+        if (!isPanning) return;
+        try { img.releasePointerCapture(e.pointerId); } catch(_){}
+        isPanning = false;
+        img.style.cursor = 'grab';
+    });
+
+   
+
+    // center-fit image
+    function centerFit(){
+        const vw = viewer.clientWidth; const vh = viewer.clientHeight;
+        const iw = img.naturalWidth; const ih = img.naturalHeight;
+        if (!iw || !ih) return;
+        const fit = Math.min(vw/iw, vh/ih, 1);
+        scale = fit;
+        translateX = (vw - iw*scale)/2;
+        translateY = (vh - ih*scale)/2;
+        updateTransform();
+    }
+
+    img.addEventListener('load', ()=>{ centerFit(); });
+</script>
+
+</body>
+</html>
