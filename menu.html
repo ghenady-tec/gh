@@ -218,10 +218,7 @@
       const a = document.createElement('a');
       a.textContent = entry.name;
 
-      if (ext === 'pdf') {
-        const viewer = 'https://bizoonydb.github.io/sumatrapdfdb/viewer?file=';
-        a.href = viewer + encodeURIComponent(GH_PAGES_BASE + entry.path);
-      } else if (['jpg','jpeg','png','gif','webp','bmp','svg'].includes(ext)) {
+      if (['jpg','jpeg','png','gif','webp','bmp','svg'].includes(ext)) {
         const imgViewer = 'https://ghenady-tec.github.io/gh/imageview.html?file=';
         a.href = imgViewer + encodeURIComponent(GH_PAGES_BASE + entry.path);
       } else {
