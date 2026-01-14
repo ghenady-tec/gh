@@ -9,7 +9,7 @@
     body {
         margin: 0;
     
-        background: #06203a;
+        background: #ffffff;
         color: var(--muted);
         overflow: hidden;
         font-family: Arial, sans-serif;
@@ -31,14 +31,14 @@
     /* Barra azul topo esquerdo */
 #top-left-bar {
     position: fixed;
-    top: 12px;
-    left: 12px;
+    top: 0px;
+    left: 0px;
     display: flex;
     gap: 8px;
     padding: 8px 10px;
     background: linear-gradient(180deg,#0b4f87,#083a66);
-    border-radius: 10px;
-    box-shadow: 0 8px 22px rgba(0,0,0,0.35);
+    border-radius: 0px 0px 20px 0px;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.616);
     z-index: 80;
     backdrop-filter: blur(6px);
 }
@@ -134,9 +134,7 @@ barRotR.addEventListener('click', () => rotate(90));
     const params = new URLSearchParams(window.location.search);
     const file = params.get('file');
 
-    if (!file) {
-        alert('Use ?file=URL_DA_IMAGEM');
-    } else {
+    if (file) {
         img.src = file;
     }
 
