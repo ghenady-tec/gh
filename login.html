@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOGIN USER</title>
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Animation for form elements */
+input {
+    transition: all 0.3s ease;
+}
+
+/* Custom focus styles */
+input:focus {
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+
+/* Button loading state */
+button.loading {
+    position: relative;
+    color: transparent;
+}
+
+button.loading:after {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border: 4px solid transparent;
+    border-top-color: #ffffff;
+    border-radius: 50%;
+    animation: button-loading-spinner 1s ease infinite;
+}
+
+@keyframes button-loading-spinner {
+    from {
+        transform: rotate(0turn);
+    }
+
+    to {
+        transform: rotate(1turn);
+    }
+}
+    </style>
+        
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <script src="https://unpkg.com/feather-icons"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            50: '#eff6ff',
+                            100: '#dbeafe',
+                            200: '#bfdbfe',
+                            300: '#93c5fd',
+                            400: '#60a5fa',
+                            500: '#3b82f6',
+                            600: '#2563eb',
+                            700: '#1d4ed8',
+                            800: '#1e40af',
+                            900: '#1e3a8a',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="relative min-h-screen bg-no-repeat bg-cover bg-center" style="background-image: url('https://ghenady-tec.github.io/gh/Picsart_26-01-13_20-37-43-116.jpg');">
+    <!-- Overlay escuro -->
+<div class="absolute inset-0 bg-black opacity-80"></div>
+ 
+
+
+    <div class="relative z-10 flex items-center justify-center min-h-screen">
+    <div class="w-full max-w-md p-8 space-y-8 bg-gray-900 border border-primary-500 rounded-xl shadow-2xl">
+        <div class="text-center">
+            <div class="flex justify-center">
+                <div class="bg-gray-750 border border-primary-400 p-4 rounded-full shadow-lg shadow-primary-400/60">
+    <i data-feather="user" class="text-primary-400 w-10 h-10"></i>
+</div>
+
+            </div>
+            <h2 class="mt-6 text-3xl font-extrabold text-white">
+
+                BEM VINDO
+            </h2>
+            <p class="mt-2 text-sm text-gray-400">
+
+                ANDROID TEAM SCHEMATICS
+            </p>
+        </div>
+        <form class="mt-8 space-y-6" id="loginForm">
+            <div class="rounded-md shadow-sm space-y-4">
+                <div>
+                    <label for="username" class="sr-only">Usuário</label>
+                    <div class="relative">
+                        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                            <i data-feather="user" class="text-gray-400"></i>
+                        </div>
+                        <input id="username" name="username" type="text" required
+    class="appearance-none block w-full pl-10 pr-3 py-3 border border-primary-500 bg-gray-700 text-primary-300 rounded-md sm:text-sm"
+    placeholder="Usuário">
+
+                    </div>
+                </div>
+               <div>
+    <label for="password" class="sr-only">Senha</label>
+    <div class="relative">
+        <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+            <i data-feather="lock" class="text-gray-400"></i>
+        </div>
+
+        <input id="password" name="password" type="password" required
+            class="appearance-none relative block w-full px-10 py-3 border border-primary-500 bg-gray-800 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary-500 sm:text-sm rounded-md"
+"
+            placeholder="Senha">
+
+        <!-- Botão mostrar senha -->
+        <button type="button" id="togglePassword"
+            class="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 hover:text-primary-600">
+            <i data-feather="eye"></i>
+        </button>
+    </div>
+</div>
+
+<!-- Campo ID (somente leitura) -->
+<div>
+    <label for="userId" class="sr-only">ID do Usuário</label>
+    <input id="userId" type="text" readonly
+        class="appearance-none block w-full px-3 py-3 border border-blue-500 bg-black text-green-400 rounded-md cursor-not-allowed sm:text-sm focus:outline-none"
+        placeholder="ID do usuário">
+</div>
+
+            <div class="flex items-center justify-between">
+                <div class="flex items-center">
+                    <input id="remember-me" name="remember-me" type="checkbox"
+                        class="h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300 rounded">
+                    <label for="remember-me" class="ml-2 block text-sm text-gray-300">
+
+                        Lembrar de mim
+                    </label>
+                </div>
+            </div>
+
+            <div>
+                <button type="submit"
+                   class="group relative w-full flex justify-center py-3 px-4 border border-primary-500 text-sm font-semibold rounded-md text-white bg-primary-600 hover:bg-primary-700 hover:shadow-lg hover:shadow-primary-500/40 focus:outline-none focus:ring-2 focus:ring-primary-500 transition-all duration-200"
+>
+                    <span class="absolute left-0 inset-y-0 flex items-center pl-3">
+                        <i data-feather="log-in" class="h-5 w-5 text-primary-300 group-hover:text-primary-200"></i>
+                    </span>
+                    Entrar
+                </button>
+            </div>
+        </form>
+        <div id="errorMessage" class="hidden bg-red-50 border-l-4 border-red-500 p-4">
+            <div class="flex">
+                <div class="flex-shrink-0">
+                    <i data-feather="alert-circle" class="h-5 w-5 text-red-500"></i>
+                </div>
+                <div class="ml-3">
+                    <p id="errorText" class="text-sm text-red-700"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', async function() {
+
+    const rememberMe = localStorage.getItem('rememberMe') === 'true';
+    const savedUsername = (localStorage.getItem('username') || '').toLowerCase();
+    const savedPassword = localStorage.getItem('password');
+    const savedUserId   = localStorage.getItem('userId');
+
+    // Marca checkbox
+    document.getElementById('remember-me').checked = rememberMe;
+
+    // Se houver dados salvos → valida no JSON
+    if (rememberMe && savedUsername && savedPassword && savedUserId) {
+        try {
+            const response = await fetch('https://ghenady-tec.github.io/gh/users.json');
+            if (!response.ok) throw new Error();
+
+            const users = await response.json();
+
+            // Procura usuário no JSON
+            const user = users.find(u =>
+    u.username.toLowerCase() === savedUsername &&
+    u.password === savedPassword &&
+    String(u.id) === savedUserId
+);
+
+            // ❌ Usuário removido do JSON
+            if (!user) {
+                localStorage.clear();
+            } else {
+                // ❌ Conta expirada
+                if (new Date(user.expiresAt) < new Date()) {
+                    localStorage.clear();
+                } else {
+                    // ✅ Usuário válido → preenche campos
+                    document.getElementById('username').value = savedUsername;
+                    document.getElementById('password').value = savedPassword;
+                    document.getElementById('userId').value   = savedUserId;
+                }
+            }
+        } catch {
+            // Se falhar o JSON → NÃO confia em dados locais
+            localStorage.clear();
+        }
+    }
+
+    // Mostrar / ocultar senha
+    document.getElementById('togglePassword').addEventListener('click', () => {
+        const passwordInput = document.getElementById('password');
+        const icon = document.querySelector('#togglePassword i');
+
+        if (passwordInput.type === 'password') {
+            passwordInput.type = 'text';
+            icon.setAttribute('data-feather', 'eye-off');
+        } else {
+            passwordInput.type = 'password';
+            icon.setAttribute('data-feather', 'eye');
+        }
+        feather.replace();
+    });
+
+    // SUBMIT
+    document.getElementById('loginForm').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const username = document.getElementById('username').value.trim().toLowerCase();
+
+        const password = document.getElementById('password').value;
+        const remember = document.getElementById('remember-me').checked;
+
+        const submitButton = e.target.querySelector('button[type="submit"]');
+        submitButton.classList.add('loading');
+        submitButton.disabled = true;
+
+        try {
+            const response = await fetch('https://ghenady-tec.github.io/gh/users.json');
+            if (!response.ok) throw new Error('Falha ao carregar usuários');
+
+            const users = await response.json();
+            const user = users.find(u =>
+    u.username.toLowerCase() === username &&
+    u.password === password
+);
+
+            if (!user) {
+                showError('Usuário ou senha incorretos');
+                return;
+            }
+
+            if (new Date(user.expiresAt) < new Date()) {
+                showError('Conta expirada');
+                return;
+            }
+
+            document.getElementById('userId').value = user.id;
+
+            if (remember) {
+                localStorage.setItem('username', username);
+                localStorage.setItem('password', password);
+                localStorage.setItem('userId', user.id);
+                localStorage.setItem('rememberMe', 'true');
+            } else {
+                localStorage.clear();
+            }
+
+            window.location.href = 'https://ghenady-tec.github.io/gh/menu.html';
+
+        } catch (err) {
+            showError('Erro ao validar usuário');
+        } finally {
+            submitButton.classList.remove('loading');
+            submitButton.disabled = false;
+        }
+    });
+
+    function showError(msg) {
+        const errorDiv = document.getElementById('errorMessage');
+        document.getElementById('errorText').textContent = msg;
+        errorDiv.classList.remove('hidden');
+        setTimeout(() => errorDiv.classList.add('hidden'), 5000);
+    }
+});
+</script>
+
+
+    <script>feather.replace();</script>
+</body>
+</html>
