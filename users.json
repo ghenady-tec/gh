@@ -94,5 +94,11 @@
     "username": "gga",
     "password": "gga",
     "expiresAt": "2026-01-16T06:53:49.243Z"
+  },
+  {
+    "id": 1768374274998,
+    "username": "fabiano",
+    "password": "teste",
+    "expiresAt": "2026-09-03T07:04:34.998Z"
   }
 ]
