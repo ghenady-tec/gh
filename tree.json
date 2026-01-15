@@ -1,37 +1,13 @@
 [
   {
-    "path": "5v.png",
-    "mode": "100644",
-    "type": "blob",
-    "sha": "d8fb8c09b9dd1cc255a19e985790e8f41d1607bc",
-    "size": 298739,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d8fb8c09b9dd1cc255a19e985790e8f41d1607bc"
-  },
-  {
-    "path": "AUDIO-REALME_C25-8032.pdf",
-    "mode": "100644",
-    "type": "blob",
-    "sha": "f9ddc228a94bdabc9e2cb43e915b63ce0a603f52",
-    "size": 4604405,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f9ddc228a94bdabc9e2cb43e915b63ce0a603f52"
-  },
-  {
-    "path": "README.md",
-    "mode": "100644",
-    "type": "blob",
-    "sha": "b9af28de1ca529a5254b8129a5fdc5805d698951",
-    "size": 14,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b9af28de1ca529a5254b8129a5fdc5805d698951"
-  },
-  {
-    "path": "TESTE",
+    "path": "DRIVE",
     "mode": "040000",
     "type": "tree",
-    "sha": "29a925e5bb44007e8efcbd53b5c0390f939b4ed6",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/29a925e5bb44007e8efcbd53b5c0390f939b4ed6"
+    "sha": "b7c396e02a4fd6912207877f338ffda6b5a7bfa2",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b7c396e02a4fd6912207877f338ffda6b5a7bfa2"
   },
   {
-    "path": "TESTE/00_Dicas-Matadoras-Manutencao-Celulares-Smartphones-1-1.pdf",
+    "path": "DRIVE/00_Dicas-Matadoras-Manutencao-Celulares-Smartphones-1-1.pdf",
     "mode": "100644",
     "type": "blob",
     "sha": "05cf3ddd7a5f35908a70c8541bd24b06757a5d4d",
@@ -39,7 +15,7 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/05cf3ddd7a5f35908a70c8541bd24b06757a5d4d"
   },
   {
-    "path": "TESTE/02 Principios Basicos telefonia celular-1.pdf",
+    "path": "DRIVE/02 Principios Basicos telefonia celular-1.pdf",
     "mode": "100644",
     "type": "blob",
     "sha": "cf193506daf11e2d0a2caaf04f3f05130124e4a1",
@@ -47,7 +23,7 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/cf193506daf11e2d0a2caaf04f3f05130124e4a1"
   },
   {
-    "path": "TESTE/1. C.F. NO POWER.jpg",
+    "path": "DRIVE/1. C.F. NO POWER.jpg",
     "mode": "100644",
     "type": "blob",
     "sha": "a4c8d7a10555b0cf036256983302847f6ffbebae",
@@ -55,7 +31,7 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a4c8d7a10555b0cf036256983302847f6ffbebae"
   },
   {
-    "path": "TESTE/2. NO POWER C.jpg",
+    "path": "DRIVE/2. NO POWER C.jpg",
     "mode": "100644",
     "type": "blob",
     "sha": "67fd6af62db3e41fd0fec70d539052d7e011c43c",
@@ -63,49 +39,250 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/67fd6af62db3e41fd0fec70d539052d7e011c43c"
   },
   {
-    "path": "TESTE/A.A",
+    "path": "DRIVE/a14 - a145b inicializacao.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
-    "size": 1,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc"
+    "sha": "d3f5a12faa99758192ecc4ed3fc22c9249232e86",
+    "size": 2,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d3f5a12faa99758192ecc4ed3fc22c9249232e86"
   },
   {
-    "path": "TESTE/a14 - a145b inicializacao.pdf",
-    "mode": "100644",
-    "type": "blob",
-    "sha": "3377c32226f568917ec2c22df769f5f632c73b38",
-    "size": 2476487,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3377c32226f568917ec2c22df769f5f632c73b38"
-  },
-  {
-    "path": "github",
+    "path": "ESQUEMA ELETRICO",
     "mode": "040000",
     "type": "tree",
-    "sha": "751be9d4dec42f536c8bc0d20bbc7e8178ef4dab",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/751be9d4dec42f536c8bc0d20bbc7e8178ef4dab"
+    "sha": "66cbf9475d5ee0d6fe1aae95a226221458340db5",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/66cbf9475d5ee0d6fe1aae95a226221458340db5"
   },
   {
-    "path": "github/workflows",
+    "path": "ESQUEMA ELETRICO/ASUS",
     "mode": "040000",
     "type": "tree",
-    "sha": "910793195386ba071719a27a80404ab008717c55",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/910793195386ba071719a27a80404ab008717c55"
+    "sha": "26c515ac1ffd2e78b27546492a314c7feb320c1b",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/26c515ac1ffd2e78b27546492a314c7feb320c1b"
   },
   {
-    "path": "github/workflows/generate-tree.yml",
+    "path": "ESQUEMA ELETRICO/ASUS/1.txt",
     "mode": "100644",
     "type": "blob",
-    "sha": "bf482ae152f7e47fa8306ffb2ff1127f3048ebca",
-    "size": 1251,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/bf482ae152f7e47fa8306ffb2ff1127f3048ebca"
+    "sha": "db4e2bff158923bb1200defb02bd7565d910231f",
+    "size": 5,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/db4e2bff158923bb1200defb02bd7565d910231f"
   },
   {
-    "path": "tree.json",
+    "path": "ESQUEMA ELETRICO/INFINIX",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "cb264b7ec91c6256e91b945dde3f5703fddb1ba3",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/cb264b7ec91c6256e91b945dde3f5703fddb1ba3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/INFINIX/2.txt",
     "mode": "100644",
     "type": "blob",
-    "sha": "baf53492a6a1bae92324157371e886d9afdc1b0b",
-    "size": 1880,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/baf53492a6a1bae92324157371e886d9afdc1b0b"
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPAD",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPAD/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/LG",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "27352ba7e8c0ca423d66a5635dfdafa2a8f56bd5",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/27352ba7e8c0ca423d66a5635dfdafa2a8f56bd5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/LG/Novo Documento de Texto.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MULTLASER",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MULTLASER/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/OPPO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/OPPO/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/REALME",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/REALME/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/SAMSUNG",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/SAMSUNG/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/VIVO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/VIVO/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/XIAOMI",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/XIAOMI/1.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "PROCESADORES",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "676fa2ccd3d35d121f327dd905abebed3c302841",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/676fa2ccd3d35d121f327dd905abebed3c302841"
+  },
+  {
+    "path": "PROCESADORES/EXYNOS",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "49ba810c494b355c391c7701a8f50d1e22681c4c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/49ba810c494b355c391c7701a8f50d1e22681c4c"
+  },
+  {
+    "path": "PROCESADORES/EXYNOS/A.TXT",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "PROCESADORES/MEDIATEK",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "49ba810c494b355c391c7701a8f50d1e22681c4c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/49ba810c494b355c391c7701a8f50d1e22681c4c"
+  },
+  {
+    "path": "PROCESADORES/MEDIATEK/A.TXT",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "PROCESADORES/QUALCOMM",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "49ba810c494b355c391c7701a8f50d1e22681c4c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/49ba810c494b355c391c7701a8f50d1e22681c4c"
+  },
+  {
+    "path": "PROCESADORES/QUALCOMM/A.TXT",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
   }
 ]
