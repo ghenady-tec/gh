@@ -50,15 +50,15 @@
     "path": "ESQUEMA ELETRICO",
     "mode": "040000",
     "type": "tree",
-    "sha": "66cbf9475d5ee0d6fe1aae95a226221458340db5",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/66cbf9475d5ee0d6fe1aae95a226221458340db5"
+    "sha": "4a6d821a92ecd1921c13baae05a7b09f4452f41f",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/4a6d821a92ecd1921c13baae05a7b09f4452f41f"
   },
   {
     "path": "ESQUEMA ELETRICO/ASUS",
     "mode": "040000",
     "type": "tree",
-    "sha": "26c515ac1ffd2e78b27546492a314c7feb320c1b",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/26c515ac1ffd2e78b27546492a314c7feb320c1b"
+    "sha": "0e286c6b0a580faa8ef53acd100c167e81c9be28",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/0e286c6b0a580faa8ef53acd100c167e81c9be28"
   },
   {
     "path": "ESQUEMA ELETRICO/ASUS/1.txt",
@@ -69,41 +69,101 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/db4e2bff158923bb1200defb02bd7565d910231f"
   },
   {
-    "path": "ESQUEMA ELETRICO/INFINIX",
+    "path": "ESQUEMA ELETRICO/ASUS/A400CG",
     "mode": "040000",
     "type": "tree",
-    "sha": "cb264b7ec91c6256e91b945dde3f5703fddb1ba3",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/cb264b7ec91c6256e91b945dde3f5703fddb1ba3"
+    "sha": "203802fda00bf6cca5eebbd7b551cb17f8784d64",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/203802fda00bf6cca5eebbd7b551cb17f8784d64"
   },
   {
-    "path": "ESQUEMA ELETRICO/INFINIX/2.txt",
+    "path": "ESQUEMA ELETRICO/ASUS/A400CG/A400CG.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    "sha": "ff5b0f965c4b9848b1d128ab3df249fceb6fc1c4",
+    "size": 2751905,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ff5b0f965c4b9848b1d128ab3df249fceb6fc1c4"
   },
   {
-    "path": "ESQUEMA ELETRICO/IPAD",
+    "path": "ESQUEMA ELETRICO/ASUS/A450CG",
     "mode": "040000",
     "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+    "sha": "90ca28d2d770a9ada1626f84f7af63dfb4435dbf",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/90ca28d2d770a9ada1626f84f7af63dfb4435dbf"
   },
   {
-    "path": "ESQUEMA ELETRICO/IPAD/1.txt",
+    "path": "ESQUEMA ELETRICO/ASUS/A450CG/A450CG.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    "sha": "96f347dafacd84ea3c7f3dd6cbe0bc4fde4ad406",
+    "size": 1906712,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/96f347dafacd84ea3c7f3dd6cbe0bc4fde4ad406"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/A500CG",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "cf8ded6e0c4ed1382ac133104c8f215a26ba905f",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/cf8ded6e0c4ed1382ac133104c8f215a26ba905f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/A500CG/A450CG-tro.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "54ccb63fea8fe673d6d70341a3034a812b043760",
+    "size": 2715039,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/54ccb63fea8fe673d6d70341a3034a812b043760"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/ZE500KL",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "aac5352f16f885a6e3374ed220afd804f9be942d",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/aac5352f16f885a6e3374ed220afd804f9be942d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/ZE500KL/ZE500KL.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5088c8a1234879bf46bc2ad9feeee8b7cb0ea7e3",
+    "size": 3371440,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/5088c8a1234879bf46bc2ad9feeee8b7cb0ea7e3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/ZE550KL",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "5a9c88dadf5514c3e97ce55a6389cb052b4eaa4c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/5a9c88dadf5514c3e97ce55a6389cb052b4eaa4c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/ZE550KL/ZE550KL_Trouble_Shooting_EE.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a7cf3575b95c5ba7c8c5e6b4cf88cdb9257c1a41",
+    "size": 1806952,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a7cf3575b95c5ba7c8c5e6b4cf88cdb9257c1a41"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/ZE600KL",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "f6d498dba354648d0b1bd99053f2d2e666d4f468",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/f6d498dba354648d0b1bd99053f2d2e666d4f468"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/ASUS/ZE600KL/ZE600KL.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "96333c740825980e99df84cb1f246f1707903605",
+    "size": 7190286,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/96333c740825980e99df84cb1f246f1707903605"
   },
   {
     "path": "ESQUEMA ELETRICO/IPHONE",
     "mode": "040000",
     "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+    "sha": "a0e99cec7a42020f857712e7045c7dbaacaf2aa8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/a0e99cec7a42020f857712e7045c7dbaacaf2aa8"
   },
   {
     "path": "ESQUEMA ELETRICO/IPHONE/1.txt",
@@ -114,26 +174,874 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
   },
   {
-    "path": "ESQUEMA ELETRICO/LG",
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 11",
     "mode": "040000",
     "type": "tree",
-    "sha": "27352ba7e8c0ca423d66a5635dfdafa2a8f56bd5",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/27352ba7e8c0ca423d66a5635dfdafa2a8f56bd5"
+    "sha": "2df310dd809ca4d74efeabc8254b7f9e2ae712a5",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/2df310dd809ca4d74efeabc8254b7f9e2ae712a5"
   },
   {
-    "path": "ESQUEMA ELETRICO/LG/Novo Documento de Texto.txt",
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 11/LAYOUT.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    "sha": "d6bd09f6777cca4d81380482e952fca1be400019",
+    "size": 2886086,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d6bd09f6777cca4d81380482e952fca1be400019"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 11/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d137eac3721fa2cb01921133cae9c9a26d9bb360",
+    "size": 22998888,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d137eac3721fa2cb01921133cae9c9a26d9bb360"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 11/thermistor_ip11.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d781f793cbd090d16ba8cf21b2e4bdafc1b6e2c",
+    "size": 9235057,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7d781f793cbd090d16ba8cf21b2e4bdafc1b6e2c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "886657940340a2ee3b8740b9464e06ba407acd83",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/886657940340a2ee3b8740b9464e06ba407acd83"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b1c950a5052b1b9b8879d34c93bac9ecf2433c52",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b1c950a5052b1b9b8879d34c93bac9ecf2433c52"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/CHARGER.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0ee7a078258cf0eef7fa9cc6326e9ce9d3e3cd48",
+    "size": 9330145,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/0ee7a078258cf0eef7fa9cc6326e9ce9d3e3cd48"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/FRONT_CAMERA.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "db8cfad0b48b3d725cfae02674bd6e5025db6775",
+    "size": 9099398,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/db8cfad0b48b3d725cfae02674bd6e5025db6775"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/FRONT_CAMERA_(DEPTH).pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e8ab345a23cb304f3a6dad8ff16367c4638455c9",
+    "size": 9256626,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e8ab345a23cb304f3a6dad8ff16367c4638455c9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/JASPER_CAMERA.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dad7b104ba38a5dec71839a101825e874e9c72de",
+    "size": 8947979,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/dad7b104ba38a5dec71839a101825e874e9c72de"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/LCD.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d7ebe421379c7c3d1561ab6e9784cbcc6b7c5b29",
+    "size": 9319738,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d7ebe421379c7c3d1561ab6e9784cbcc6b7c5b29"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/LCD_LIGHT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "39326b7027ff31282a60897bf939b9e2b456c5ba",
+    "size": 9167590,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/39326b7027ff31282a60897bf939b9e2b456c5ba"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/ON_OFF_VOL.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cae8c6a3e41b0cde9a15f6b61843dda331071ac5",
+    "size": 7564270,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/cae8c6a3e41b0cde9a15f6b61843dda331071ac5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/SIM_CARD.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9dd038a5a10fa5568c93b3826de345a80301827c",
+    "size": 8026196,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9dd038a5a10fa5568c93b3826de345a80301827c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/TOUCHSCREEN.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4aabba68e44a95d016833fe19464ef82a52fbed5",
+    "size": 7917971,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4aabba68e44a95d016833fe19464ef82a52fbed5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/WIFI_BLUETOOTH_GPS.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0abe08d19b0007a199b41e3fc7ebd2e6023d5d3d",
+    "size": 8328773,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/0abe08d19b0007a199b41e3fc7ebd2e6023d5d3d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/HARDWARE SOLUTION/back_cam_wide.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "aff42bd0130d7b3285fb5281aa061cface08b3a2",
+    "size": 12239951,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/aff42bd0130d7b3285fb5281aa061cface08b3a2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 12 PRO MAX/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c87d16b4c6a5596cc6c210f049ac09460d61346f",
+    "size": 1863623,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c87d16b4c6a5596cc6c210f049ac09460d61346f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b16066cd59eb1129a54f2099d2d8618f77cc83d8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b16066cd59eb1129a54f2099d2d8618f77cc83d8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX/DIODO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b3f1968e92d3c500b1651ccafc99d05bbb2a8d49",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b3f1968e92d3c500b1651ccafc99d05bbb2a8d49"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX/DIODO/iPhone13ProMAX Middle layer resistance diagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3d20e75afd6d8e68a6963254cdf019aa4f4dadbb",
+    "size": 3594861,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3d20e75afd6d8e68a6963254cdf019aa4f4dadbb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX/DIODO/iPhone13ProMax BTB connector Diode value.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d01b367854aaed5eae55810b1fe3939a747c1563",
+    "size": 2299856,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d01b367854aaed5eae55810b1fe3939a747c1563"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX/iPhone13ProMax Component explain.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d2f1d014bd321dd73758728953705399fe7fe649",
+    "size": 3016549,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d2f1d014bd321dd73758728953705399fe7fe649"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX/iPhone13ProMax Mainboard Marking Fault.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bc9ddcd8d7ef13ca843e147e4fbe766828f3de2d",
+    "size": 2345804,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/bc9ddcd8d7ef13ca843e147e4fbe766828f3de2d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 13 PRO MAX/iPhone13ProMax Schematics.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df2eda197e5cd79468011ad9edde574dba026d79",
+    "size": 8587519,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/df2eda197e5cd79468011ad9edde574dba026d79"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 14 PLUS",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "68408605fae45622d038863852c4564ae992cb38",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/68408605fae45622d038863852c4564ae992cb38"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 14 PLUS/DIODO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "670f4d772019eba15f63de11e50a2b2beb87fcc4",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/670f4d772019eba15f63de11e50a2b2beb87fcc4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 14 PLUS/DIODO/DIODO%20IP14plus.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9208ea617e674b2d3855109a14b40d2f136d78bd",
+    "size": 6189435,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9208ea617e674b2d3855109a14b40d2f136d78bd"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 14 PRO MAX",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ee7fbb62504d1292bca6bde5049634e5fb14d549",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ee7fbb62504d1292bca6bde5049634e5fb14d549"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 14 PRO MAX/DIODO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ab1dc8eabc7e646457563c84fd4f3b99137ef763",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ab1dc8eabc7e646457563c84fd4f3b99137ef763"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 14 PRO MAX/DIODO/DIODO-14PROMAX.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "120a4cc23df50e9290912c175f32336ca7b77c07",
+    "size": 8317806,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/120a4cc23df50e9290912c175f32336ca7b77c07"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO (USA)",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "42b25a332178c46069cb29dc4566920f3a071f84",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/42b25a332178c46069cb29dc4566920f3a071f84"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO (USA)/15PRO FULL LAYER.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "198234fea52fbeca312b68c3506165f815c7e1ab",
+    "size": 21959674,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/198234fea52fbeca312b68c3506165f815c7e1ab"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO (USA)/iPhone15ProMax(USA) Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2518392bd566897993cb9d0c04b85499bc5cb12a",
+    "size": 2673466,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2518392bd566897993cb9d0c04b85499bc5cb12a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO MAX",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "195b321bd15a27b14deb3ce4b59776e850b762ba",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/195b321bd15a27b14deb3ce4b59776e850b762ba"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO MAX/IPHONE 15 PRO MAX A17 FULL LAYER.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e5c4fd1f596956c13fc5f684add99d01f1b68eae",
+    "size": 24764409,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e5c4fd1f596956c13fc5f684add99d01f1b68eae"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO MAX/iPhone15Pro_ProMax Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c3b93e1ac8b3f1ffe3667d221d8524b8f9b2369d",
+    "size": 2519690,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c3b93e1ac8b3f1ffe3667d221d8524b8f9b2369d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "997c91459c4cd8cfd6d3546966668dd94a975927",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/997c91459c4cd8cfd6d3546966668dd94a975927"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO/COMP NAME.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "198234fea52fbeca312b68c3506165f815c7e1ab",
+    "size": 21959674,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/198234fea52fbeca312b68c3506165f815c7e1ab"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c3b93e1ac8b3f1ffe3667d221d8524b8f9b2369d",
+    "size": 2519690,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c3b93e1ac8b3f1ffe3667d221d8524b8f9b2369d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 15 PRO/SETOR.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d6aa3d169f6086bb9671580a7e4d34271979b52b",
+    "size": 693815,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d6aa3d169f6086bb9671580a7e4d34271979b52b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 5C",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "13395b2ed7c4b0322f3710f462651af86364ff3e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/13395b2ed7c4b0322f3710f462651af86364ff3e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 5C/iPhone5C Component Location Map.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e62c655b32dede322fca82912a3a3ed095c313f1",
+    "size": 267965,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e62c655b32dede322fca82912a3a3ed095c313f1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 5C/iPhone5C Schematic diagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "908416b6fed3cd6708fa1c45c27024bdc46385f1",
+    "size": 927093,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/908416b6fed3cd6708fa1c45c27024bdc46385f1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 5S",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "536ffa71036e97de9e56e56406ce29b3c035e1fe",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/536ffa71036e97de9e56e56406ce29b3c035e1fe"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 5S/iPhone5S 6.1 Component Location Map.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d669ed5aeb09388b955e909082c9ff4101b08527",
+    "size": 224673,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d669ed5aeb09388b955e909082c9ff4101b08527"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 5S/iPhone5S 6.1 Schematic diagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7696cc24a3919413eded365187ba124b7565fe03",
+    "size": 1958383,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7696cc24a3919413eded365187ba124b7565fe03"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6 PLUS",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "8bb41b9ab96ec657337d4cc7f611e48b97888d44",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/8bb41b9ab96ec657337d4cc7f611e48b97888d44"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6 PLUS/iPhone6Plus Location.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ace6c6fa8c47fe29856f7361110fcad2f1c7f4da",
+    "size": 243996,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ace6c6fa8c47fe29856f7361110fcad2f1c7f4da"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6 PLUS/iPhone6Plus Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0e32ac4722fabe97aaac36b57c916f365c7c1474",
+    "size": 1519977,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/0e32ac4722fabe97aaac36b57c916f365c7c1474"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "823a4b2ed0ceee6652ebceec32e6a37e7cce6fc4",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/823a4b2ed0ceee6652ebceec32e6a37e7cce6fc4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/A8 CPU vccFoot positiondiagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d7d5567b0bea9f9d26ab8cebc23876b9a8e15b9e",
+    "size": 3923666,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d7d5567b0bea9f9d26ab8cebc23876b9a8e15b9e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/DIODO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "7380206967ce02e40db4503111c5dd04acd01747",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/7380206967ce02e40db4503111c5dd04acd01747"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/DIODO/iPhone 6 DIODO.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "96ef555376cacb83b6f1c53422099f1656826bf5",
+    "size": 1125369,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/96ef555376cacb83b6f1c53422099f1656826bf5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/iPhone6 COMP.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3a2c76117e52e4caa9e5737eaf2f82e121e348fc",
+    "size": 1797393,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3a2c76117e52e4caa9e5737eaf2f82e121e348fc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/iPhone6 startup short contact.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "31a781d0be920a78b59ae99882006249c8a06cd3",
+    "size": 139192,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/31a781d0be920a78b59ae99882006249c8a06cd3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/iphone6 ARC( ring tone)block diagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2e319f8000abbea5f8d73ac21ab0ca05e02b1000",
+    "size": 4496248,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2e319f8000abbea5f8d73ac21ab0ca05e02b1000"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/layout.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b3e93bff7c28e4f3c86925b418165a3f1480ce7a",
+    "size": 3236863,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b3e93bff7c28e4f3c86925b418165a3f1480ce7a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6/schematc.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3d79b6b509a8cc08805fd25bc40b2af341309477",
+    "size": 18728989,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3d79b6b509a8cc08805fd25bc40b2af341309477"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "3a935df2592e7f3fa49bc238befd55d3063b9de8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/3a935df2592e7f3fa49bc238befd55d3063b9de8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/A9 CPU vcc Foot position diagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d4589bebfd2de57dcf99481b9e5e0d40d6cb5bc2",
+    "size": 4186193,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d4589bebfd2de57dcf99481b9e5e0d40d6cb5bc2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/DIODO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d01a13c0952151d8aabb47c4c1ff4482fb1b10a2",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d01a13c0952151d8aabb47c4c1ff4482fb1b10a2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/DIODO/A9 cpu middle-lever diode value diagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3ebfb9f47d524146ab6250578e3ab97fe3613da5",
+    "size": 2297563,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3ebfb9f47d524146ab6250578e3ab97fe3613da5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/DIODO/iPhone 6S plus Diode Value.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "446a4599fc0d20d8f932423c4ff0450157b44a71",
+    "size": 1219210,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/446a4599fc0d20d8f932423c4ff0450157b44a71"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/iPhone6sPlus Location.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c4a9ada08d48575794e66f1d3741fd79c510d701",
+    "size": 327613,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c4a9ada08d48575794e66f1d3741fd79c510d701"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/iPhone6sPlus Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ac0b8d1ad0a7a8b5979f33dd0e2ddf083fd7acbf",
+    "size": 1134871,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ac0b8d1ad0a7a8b5979f33dd0e2ddf083fd7acbf"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S PLUS/iPhone6sPlus startup short contact.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "638669ac6151ef3b679b1e9c2adbcf19c05a62ea",
+    "size": 113809,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/638669ac6151ef3b679b1e9c2adbcf19c05a62ea"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "9be247be1140038eb352393bf36412249ea1fd82",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/9be247be1140038eb352393bf36412249ea1fd82"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S/DIODO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b759cbd4c4facc0cabac4fc0f13a625b5560cf81",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b759cbd4c4facc0cabac4fc0f13a625b5560cf81"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S/DIODO/A9 middle-leverdiode valuediagram.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "454d7a59f22250787415c223afa5ae4657dfe19d",
+    "size": 1242509,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/454d7a59f22250787415c223afa5ae4657dfe19d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d88e17c7626851729a184ee8005296e0bcdd9bb7",
+    "size": 2416225,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d88e17c7626851729a184ee8005296e0bcdd9bb7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S/Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1fba6e8932d72565fcb67f7a784f366fcb5d61ae",
+    "size": 20702396,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/1fba6e8932d72565fcb67f7a784f366fcb5d61ae"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S/iPhone6S DIAGRAM.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2ec39f8130aa758437b950f96b7537a93dd5ccad",
+    "size": 7212508,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2ec39f8130aa758437b950f96b7537a93dd5ccad"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 6S/iPhone6s startup short contact.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "16e9412fec91d2db128b66e40c0dcdd3b8a91959",
+    "size": 139954,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/16e9412fec91d2db128b66e40c0dcdd3b8a91959"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7 INT",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "44a861eab156877be356fc6d3b09bf42890b0619",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/44a861eab156877be356fc6d3b09bf42890b0619"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7 INT/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dfd9abcadd43859567825bda39588f206615645f",
+    "size": 602930,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/dfd9abcadd43859567825bda39588f206615645f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7 INT/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "746bfd00f0e0198c519444974425816cd373f027",
+    "size": 21605394,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/746bfd00f0e0198c519444974425816cd373f027"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7 QCM",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "889b3c1a459a8a11b7a943c90391fe99074c7364",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/889b3c1a459a8a11b7a943c90391fe99074c7364"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7 QCM/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "76bded127fe290d1799112cfe0c77a85ea4eea2f",
+    "size": 803868,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/76bded127fe290d1799112cfe0c77a85ea4eea2f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7 QCM/schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f06eff6957c8a89284b956ab908ecaa28e90f550",
+    "size": 981784,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f06eff6957c8a89284b956ab908ecaa28e90f550"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7PLUS INT",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "afcdff0a4e5e96e052dcc65998781eb38bffe420",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/afcdff0a4e5e96e052dcc65998781eb38bffe420"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7PLUS INT/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "580934318a8731ebb62c422597fbc7cdbb6126c4",
+    "size": 3499244,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/580934318a8731ebb62c422597fbc7cdbb6126c4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7PLUS INT/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "45759112a9765a03bf89dd84eadf6a718a9361af",
+    "size": 977645,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/45759112a9765a03bf89dd84eadf6a718a9361af"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7PLUS QCM",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "53b2aa822b890e4e8c9e93db568b66870cf8aafe",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/53b2aa822b890e4e8c9e93db568b66870cf8aafe"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7PLUS QCM/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2dc98f1776ccaa8560937699561f933bd711d854",
+    "size": 6917544,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2dc98f1776ccaa8560937699561f933bd711d854"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 7PLUS QCM/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3e14a990cc42e38b0293c7e5fee7b1c86f57e902",
+    "size": 1607576,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3e14a990cc42e38b0293c7e5fee7b1c86f57e902"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "2b4954f51862b7753971b2c33be8e422e699892a",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/2b4954f51862b7753971b2c33be8e422e699892a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "945105d40d4ea4216a9905442370f7686f0f040c",
+    "size": 11482983,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/945105d40d4ea4216a9905442370f7686f0f040c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6c60d69778890106d5b7c653f2a7d6bfd6d87cdf",
+    "size": 6802547,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6c60d69778890106d5b7c653f2a7d6bfd6d87cdf"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8PLUS INT",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "50ecf1b1e9ca20c998b75f6bbbd3f0a3edbf6cc8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/50ecf1b1e9ca20c998b75f6bbbd3f0a3edbf6cc8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8PLUS INT/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7bc3fa2b1e5d7ad10c4c3af571af208478a18cd6",
+    "size": 1914181,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7bc3fa2b1e5d7ad10c4c3af571af208478a18cd6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8PLUS INT/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "67f4b458398766320606457a9d64ed068dde2503",
+    "size": 2434699,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/67f4b458398766320606457a9d64ed068dde2503"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8PLUS QCM",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "50ecf1b1e9ca20c998b75f6bbbd3f0a3edbf6cc8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/50ecf1b1e9ca20c998b75f6bbbd3f0a3edbf6cc8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8PLUS QCM/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7bc3fa2b1e5d7ad10c4c3af571af208478a18cd6",
+    "size": 1914181,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7bc3fa2b1e5d7ad10c4c3af571af208478a18cd6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE 8PLUS QCM/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "67f4b458398766320606457a9d64ed068dde2503",
+    "size": 2434699,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/67f4b458398766320606457a9d64ed068dde2503"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE SE",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d41eab43a167927f6b6918ddf38554f6ba73bfdb",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d41eab43a167927f6b6918ddf38554f6ba73bfdb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE SE/iPhoneSE Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e4315c66dbb7ef3c93f291d2e4c7995679340185",
+    "size": 1963706,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e4315c66dbb7ef3c93f291d2e4c7995679340185"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE SE/iPhoneSE Socket Diode value-v1.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "33dc0bab28127b28742142842bc887801bdbf4e0",
+    "size": 279279,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/33dc0bab28127b28742142842bc887801bdbf4e0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE SE/iPhoneSE location 820-00282.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e2f502ebe931ebec43073e689735bf6228c9ba61",
+    "size": 435673,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e2f502ebe931ebec43073e689735bf6228c9ba61"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE X INT",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "13714fe7ca705758cc0ad54f6fef2489d6fbd6a6",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/13714fe7ca705758cc0ad54f6fef2489d6fbd6a6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE X INT/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "63f0df09630518bbbc67f6f68fd3f93d23841039",
+    "size": 3011536,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/63f0df09630518bbbc67f6f68fd3f93d23841039"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE X INT/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "85ee004a76a62ddf700005e3ce3a12d5dce68db0",
+    "size": 1108262,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/85ee004a76a62ddf700005e3ce3a12d5dce68db0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE X QCM",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "13714fe7ca705758cc0ad54f6fef2489d6fbd6a6",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/13714fe7ca705758cc0ad54f6fef2489d6fbd6a6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE X QCM/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "63f0df09630518bbbc67f6f68fd3f93d23841039",
+    "size": 3011536,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/63f0df09630518bbbc67f6f68fd3f93d23841039"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE X QCM/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "85ee004a76a62ddf700005e3ce3a12d5dce68db0",
+    "size": 1108262,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/85ee004a76a62ddf700005e3ce3a12d5dce68db0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE XR",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "e0f8d83db50d896fae87f0ff1c4c27d963b8ad41",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/e0f8d83db50d896fae87f0ff1c4c27d963b8ad41"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE XR/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2bbbff1536567eca16739b3475733e2a70e14cb0",
+    "size": 1863604,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2bbbff1536567eca16739b3475733e2a70e14cb0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/IPHONE XR/SCHEMATIC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b84c79a22b2e325780b73431638dfec28fc91fda",
+    "size": 5571815,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b84c79a22b2e325780b73431638dfec28fc91fda"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/Iphone SE 2020",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ca6a212e91769c0fcc8688fc8a5ebc05cd3fdc2d",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ca6a212e91769c0fcc8688fc8a5ebc05cd3fdc2d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/Iphone SE 2020/COMP_NAME-IPHONE_SE_2020-4299.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ba3746b3643220e8895db586caf6aacc3cd0966a",
+    "size": 1866450,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ba3746b3643220e8895db586caf6aacc3cd0966a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/Iphone SE 2020/SE2020-FALHATOUCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "975b1d61ceb295f30d553de9f640d0340487f46d",
+    "size": 1869409,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/975b1d61ceb295f30d553de9f640d0340487f46d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/IPHONE/Iphone SE 2020/touch-iphone-se-2020.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6fab94136e5047527348fecff2a01cf0017ba410",
+    "size": 4167093,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6fab94136e5047527348fecff2a01cf0017ba410"
   },
   {
     "path": "ESQUEMA ELETRICO/MOTOROLA",
     "mode": "040000",
     "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+    "sha": "1bd9492b5594cd0d636521b3507c45a1ebadcd02",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/1bd9492b5594cd0d636521b3507c45a1ebadcd02"
   },
   {
     "path": "ESQUEMA ELETRICO/MOTOROLA/1.txt",
@@ -144,49 +1052,1989 @@
     "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
   },
   {
-    "path": "ESQUEMA ELETRICO/MULTLASER",
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E13 XT2345",
     "mode": "040000",
     "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+    "sha": "c2abdd05b5462ac7ed7e67dfce2189e3a72170cd",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/c2abdd05b5462ac7ed7e67dfce2189e3a72170cd"
   },
   {
-    "path": "ESQUEMA ELETRICO/MULTLASER/1.txt",
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E13 XT2345/E13-LAY.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    "sha": "04a68cdd83bd2f44125926c84e96fbd7b935c2c0",
+    "size": 1529214,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/04a68cdd83bd2f44125926c84e96fbd7b935c2c0"
   },
   {
-    "path": "ESQUEMA ELETRICO/OPPO",
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E13 XT2345/E13-SCH_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2c16c4addd97933f30ed73f3e88a701b1aaa7a26",
+    "size": 927236,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2c16c4addd97933f30ed73f3e88a701b1aaa7a26"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E32 XT2229",
     "mode": "040000",
     "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+    "sha": "7a5c5416efe5b04934de24f30c9481fc6f0fa700",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/7a5c5416efe5b04934de24f30c9481fc6f0fa700"
   },
   {
-    "path": "ESQUEMA ELETRICO/OPPO/1.txt",
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E32 XT2229/E32-LAY.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    "sha": "bb234317d3158a0fd481cd86a163801e7c18ff7f",
+    "size": 1151425,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/bb234317d3158a0fd481cd86a163801e7c18ff7f"
   },
   {
-    "path": "ESQUEMA ELETRICO/REALME",
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E32 XT2229/E32-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "63eb2fe638332250b128e98eecb6617b07567b98",
+    "size": 820753,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/63eb2fe638332250b128e98eecb6617b07567b98"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E6S XT-2053",
     "mode": "040000",
     "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
+    "sha": "d7f8d4910463308c2fb7bc5560eb43d2479b41e6",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d7f8d4910463308c2fb7bc5560eb43d2479b41e6"
   },
   {
-    "path": "ESQUEMA ELETRICO/REALME/1.txt",
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E6S XT-2053/E6S-LAY.pdf",
     "mode": "100644",
     "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    "sha": "0058301ec7297f553852aca12722ec8de1ea1135",
+    "size": 2776024,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/0058301ec7297f553852aca12722ec8de1ea1135"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E6S XT-2053/XT2053-_Schematics.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "750aa4a6da52ef1bc6a720539582641d5ceef296",
+    "size": 18502991,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/750aa4a6da52ef1bc6a720539582641d5ceef296"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E6i XT2053-5",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "2f0aae6e5b6777eb902ecb4c4e318e6429851b2c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/2f0aae6e5b6777eb902ecb4c4e318e6429851b2c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E6i XT2053-5/E6I_LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c59fdabaaf6e3a5acbd7aac9453b2bb94b06a35e",
+    "size": 541048,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c59fdabaaf6e3a5acbd7aac9453b2bb94b06a35e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E6i XT2053-5/E6I_SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4d6e90a6bd3acceb3e779a3f3ee4e949f9d68445",
+    "size": 744644,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4d6e90a6bd3acceb3e779a3f3ee4e949f9d68445"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E7 XT2095",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "98fe3c5000dd7ab564c69516e21db78cda5a33b9",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/98fe3c5000dd7ab564c69516e21db78cda5a33b9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E7 XT2095/XT2095-X (Malta_20)_ Moto E7_MB_P2-Component Location.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c0baa75b2dbdbd74711a6e510caca68b1a849e63",
+    "size": 649464,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c0baa75b2dbdbd74711a6e510caca68b1a849e63"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E7 XT2095/XT2095-X (Malta_20)_ Moto E7_MB_P2-Schematics.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ce043e74d4d1ee7b23b148a587339162c9395e36",
+    "size": 542696,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ce043e74d4d1ee7b23b148a587339162c9395e36"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E7 XT2095/XT2095-X (Malta_20)_ Moto E7_SUB_P2-Component Location.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a06038aef30a536e2df9575cf4dd84250f792756",
+    "size": 61337,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a06038aef30a536e2df9575cf4dd84250f792756"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/E7 XT2095/XT2095-X (Malta_20)_ Moto E7_SUB_P2_Schematics.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6e31b540df6b5f29114e09f7398b78b0ac5f249a",
+    "size": 59332,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6e31b540df6b5f29114e09f7398b78b0ac5f249a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 NEO XT2245",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "760a0eabdc8ed1f753962f48c0bfd4a87e4717d0",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/760a0eabdc8ed1f753962f48c0bfd4a87e4717d0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 NEO XT2245/EDGE30NEO-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9b21ab4c28dad7136f3cd8f7a4af5fea2fb66e12",
+    "size": 5533053,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9b21ab4c28dad7136f3cd8f7a4af5fea2fb66e12"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 NEO XT2245/EDGE30NEO-LAYDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4f651352c46fdc7c5b3f6681e72f03e85579cf28",
+    "size": 1199080,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4f651352c46fdc7c5b3f6681e72f03e85579cf28"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 NEO XT2245/EDGE30NEO-SCH_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3f153c778b4d84cda084985a05f8f15bc8c24512",
+    "size": 2234918,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3f153c778b4d84cda084985a05f8f15bc8c24512"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 ULTRA XT2241",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d3db78069b050b07ae21cbfeb09715822297dd44",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d3db78069b050b07ae21cbfeb09715822297dd44"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 ULTRA XT2241/XT2241_mainboard_ROW_v90_0627_OK2P_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "71855f11c28d8270391018fdf53cea439a5ad978",
+    "size": 706383,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/71855f11c28d8270391018fdf53cea439a5ad978"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 ULTRA XT2241/edge30ultra_sublay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b872b1ba990614f909b46b52b6039b8ded88dcdf",
+    "size": 2129970,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b872b1ba990614f909b46b52b6039b8ded88dcdf"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/EDGE-30 ULTRA XT2241/edge30ultraboardv.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3511b4f5b49311a923f18848b9054c28dcfe041c",
+    "size": 4708200,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3511b4f5b49311a923f18848b9054c28dcfe041c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge – XT2063",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "9b35248bff20eadd0972e377deda259b4539e45c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/9b35248bff20eadd0972e377deda259b4539e45c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge – XT2063/EDGE-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "576ec195fe62a2c21f87d9e1ec2c059d11882792",
+    "size": 560565,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/576ec195fe62a2c21f87d9e1ec2c059d11882792"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge – XT2063/EDGE-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0bdb1b6c8a7c5a90ac276c5e91478c4bdaf223b7",
+    "size": 3902753,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/0bdb1b6c8a7c5a90ac276c5e91478c4bdaf223b7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge+ XT2061",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "9a3e96b788cb7173bbeab569d2dc8229649d8ca8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/9a3e96b788cb7173bbeab569d2dc8229649d8ca8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge+ XT2061/EDGE+SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "686239a460ab6ad67b14efc3218211b6829637da",
+    "size": 11882982,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/686239a460ab6ad67b14efc3218211b6829637da"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge+ XT2061/Layout (2).pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "045776ff4c63f4d3436c3fd41ced364a3482e493",
+    "size": 72317,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/045776ff4c63f4d3436c3fd41ced364a3482e493"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge+ XT2061/Layout.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c4be30e0480056634be854a91e2c80c6abb5fde7",
+    "size": 3219313,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c4be30e0480056634be854a91e2c80c6abb5fde7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/Edge+ XT2061/schematics.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b2c0ac8f22e5e9d27f742a1b651f9fcaad3241d5",
+    "size": 59116,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b2c0ac8f22e5e9d27f742a1b651f9fcaad3241d5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2075",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d35d9bfacdaeb43529ee562a1c0e58703939a01b",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d35d9bfacdaeb43529ee562a1c0e58703939a01b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2075/XT2075-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2cce1eae491bb6f41587bfd8d69cf0b3ce61d984",
+    "size": 2172131,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2cce1eae491bb6f41587bfd8d69cf0b3ce61d984"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2075/XT2075_%20SCHMA.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d1e7056f738356acc0402b71ba2ee7d3fa612409",
+    "size": 9184786,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d1e7056f738356acc0402b71ba2ee7d3fa612409"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2075/XT2075_SCHDC%20.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f911ebf8672c0d6285e74bc351ae0a2129ffa4b4",
+    "size": 51516,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f911ebf8672c0d6285e74bc351ae0a2129ffa4b4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2313",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "182d2b8796c7698e14e332972db254f53b161eff",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/182d2b8796c7698e14e332972db254f53b161eff"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2313/XT2313-x_(Moto_G_5G_-_Penang5G_NA)_MB_Component_Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ed004cdb0611eb20933b89a00400f866828dafd3",
+    "size": 3902553,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ed004cdb0611eb20933b89a00400f866828dafd3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G 5G XT2313/XT2313-x_(Moto_G_5G_-_Penang5G_NA)_MB_Schematics_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8f14ad5e400b61dcbc7f1cd991479c0a3283434c",
+    "size": 1178195,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/8f14ad5e400b61dcbc7f1cd991479c0a3283434c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G PLAY XT2093",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "2d0c9e017f1a9ff00a09092c04d8aada2b4fc5ba",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/2d0c9e017f1a9ff00a09092c04d8aada2b4fc5ba"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G PLAY XT2093/XT2093-CH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "079afbbdfc959db7bf770d30f581ce924c25875c",
+    "size": 1531434,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/079afbbdfc959db7bf770d30f581ce924c25875c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G PLAY XT2093/XT2093-board.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "197beeb95899099c5cc80f00844d3bedd8dd4903",
+    "size": 228565,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/197beeb95899099c5cc80f00844d3bedd8dd4903"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G PLAY XT2093/XT2093-sub%20board.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ab67241dc80a5e6dc0817445900123d10c31c58f",
+    "size": 116814,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ab67241dc80a5e6dc0817445900123d10c31c58f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G PLAY XT2093/XT2093LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "700dd7b7770e0cd32d6eebca9d99c44d23a129bb",
+    "size": 1960417,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/700dd7b7770e0cd32d6eebca9d99c44d23a129bb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G POWER XT2117",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b56d4d06ffc350aed3dee8950889da250de767a1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b56d4d06ffc350aed3dee8950889da250de767a1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G POWER XT2117/XT2117-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "21bfb0eed77e28b7c0af372e05d98b55846867da",
+    "size": 2742704,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/21bfb0eed77e28b7c0af372e05d98b55846867da"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G POWER XT2117/XT2117-LAYSC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3cddd5abccf84a9e39bcdb2ca20d4b33310890e0",
+    "size": 394309,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3cddd5abccf84a9e39bcdb2ca20d4b33310890e0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G POWER XT2117/XT2117-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "31ae91d9d1b5e480c3264367df412e225f68ef59",
+    "size": 1017371,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/31ae91d9d1b5e480c3264367df412e225f68ef59"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G POWER XT2117/ZT2117-SCHDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c3e37f34321a26fd6dd4899b4c58491af4be4f16",
+    "size": 295761,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c3e37f34321a26fd6dd4899b4c58491af4be4f16"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G STYLUS XT2115",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "3ba2ea9dec07d459bacd418be932a8d83b934e00",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/3ba2ea9dec07d459bacd418be932a8d83b934e00"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G STYLUS XT2115/XT2115-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "18b70be55dfceb52c0c7f1badd83c9edc58795f7",
+    "size": 1026164,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/18b70be55dfceb52c0c7f1badd83c9edc58795f7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G STYLUS XT2115/XT2115-LAYDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "33e5eaf0073e82359415c9910ff1733e90f95b60",
+    "size": 307778,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/33e5eaf0073e82359415c9910ff1733e90f95b60"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G STYLUS XT2115/XT2115-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df8d2166e50d2fcb03496cc28231eb31f201e01c",
+    "size": 16456442,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/df8d2166e50d2fcb03496cc28231eb31f201e01c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G STYLUS XT2115/XT2115-SCHDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "77d9e2d65fa0b87eabd56db12294548bb0b995d4",
+    "size": 995223,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/77d9e2d65fa0b87eabd56db12294548bb0b995d4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G05 XT2523",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "276f2eee4f2cdd2c45b4d7ab3f157f63666e779b",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/276f2eee4f2cdd2c45b4d7ab3f157f63666e779b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G05 XT2523/XT2523-G05_LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "670af9b19ad85f918b371f087dfcbbc7888cb694",
+    "size": 1247991,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/670af9b19ad85f918b371f087dfcbbc7888cb694"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G05 XT2523/XT2523_G05_SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d08e2823bf593c1d2e611866241e0460767799fb",
+    "size": 1976493,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d08e2823bf593c1d2e611866241e0460767799fb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G1 XT1033",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "e71a6db8f680c284afb041b1823b5fc55bef39fa",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/e71a6db8f680c284afb041b1823b5fc55bef39fa"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G1 XT1033/G1-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "152c7810c5d30f00d37fa24de8bf4afc5e67681a",
+    "size": 448553,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/152c7810c5d30f00d37fa24de8bf4afc5e67681a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G1 XT1033/XT1033-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6d6bf302bb76bab4998bbaf6c691debb47506f9c",
+    "size": 998816,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6d6bf302bb76bab4998bbaf6c691debb47506f9c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 PLAY XT2117",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "1aa1a95790e260f1657d9b2aa0c305863a7219b3",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/1aa1a95790e260f1657d9b2aa0c305863a7219b3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 PLAY XT2117/G10-PLAY-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "21bfb0eed77e28b7c0af372e05d98b55846867da",
+    "size": 2742704,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/21bfb0eed77e28b7c0af372e05d98b55846867da"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 PLAY XT2117/G10-PLAY-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "31ae91d9d1b5e480c3264367df412e225f68ef59",
+    "size": 1017371,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/31ae91d9d1b5e480c3264367df412e225f68ef59"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 XT2127",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "7fb11fc2e516b3407ed147f9eb94d1d7544bd3c9",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/7fb11fc2e516b3407ed147f9eb94d1d7544bd3c9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 XT2127/G10-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a0f16ac59e12c2b5a13d57adeb298cf1ff0e95dd",
+    "size": 4262548,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a0f16ac59e12c2b5a13d57adeb298cf1ff0e95dd"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 XT2127/G10-LAYDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d2bf943ad065dbbd214a32e7a131df9763abfc58",
+    "size": 98422,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d2bf943ad065dbbd214a32e7a131df9763abfc58"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 XT2127/G10-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5599c56f5ab53bad337a6532513d2084787e95fe",
+    "size": 1845823,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/5599c56f5ab53bad337a6532513d2084787e95fe"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G10 XT2127/G10-SCHDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "93cd47d242eef42bf96cd4fd2298df1180d74525",
+    "size": 42420,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/93cd47d242eef42bf96cd4fd2298df1180d74525"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G100 XT2125",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d95dcf8d8031e935eb1b3d426f273891716e261f",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d95dcf8d8031e935eb1b3d426f273891716e261f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G100 XT2125/G100-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f1ec30f74528e159694db21e57c401a2090173e8",
+    "size": 1399089,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f1ec30f74528e159694db21e57c401a2090173e8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G100 XT2125/G100-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "aaa88b8f47321116f5b99514a2da68b2e458de2c",
+    "size": 3289537,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/aaa88b8f47321116f5b99514a2da68b2e458de2c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G13 XT-2331",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "547722da6bb8b492b201fff09ece019191cf4f72",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/547722da6bb8b492b201fff09ece019191cf4f72"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G13 XT-2331/XT2331-x_(Moto_g13_-_Penang4G)_MB_Component_Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dc27d47a32673c1637f90844fb16b38d1c76c90d",
+    "size": 4834935,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/dc27d47a32673c1637f90844fb16b38d1c76c90d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G13 XT-2331/XT2331-x_(Moto_g13_-_Penang4G)_MB_Schematic_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "03a91fd4d402441525b1e5fbcce11b4b76e741be",
+    "size": 660613,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/03a91fd4d402441525b1e5fbcce11b4b76e741be"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G14 XT2341-x",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "4a47ea0567c2de691069cff2e23bb874eef4d59c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/4a47ea0567c2de691069cff2e23bb874eef4d59c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G14 XT2341-x/XT2341-x_(Moto_g14%20LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8ca7f7aaa6891a540bbc867801dccad36521a924",
+    "size": 4166451,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/8ca7f7aaa6891a540bbc867801dccad36521a924"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G14 XT2341-x/XT2341-x_(Moto_g14%20SCH_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b244d1eb0dc32b19759a5081a66511e4df10e27e",
+    "size": 932802,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b244d1eb0dc32b19759a5081a66511e4df10e27e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G2 XT1036",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b03347dce27f02ba930c0d17b67a9a75cbf44872",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b03347dce27f02ba930c0d17b67a9a75cbf44872"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G2 XT1036/ESQUEMATICO.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7283abeeb41dbd26684ad9b24419a6a64259304e",
+    "size": 140481,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7283abeeb41dbd26684ad9b24419a6a64259304e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G2 XT1036/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "db657c2d331e54217547427f23e538d0cc345836",
+    "size": 108357,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/db657c2d331e54217547427f23e538d0cc345836"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G2 XT107879",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "54670d5ece8f1260b42c28022bbe56bc933dac89",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/54670d5ece8f1260b42c28022bbe56bc933dac89"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G2 XT107879/ESQUEMATICO.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4c7e45e0ade833dd19b3b16ce222dda7bcd04573",
+    "size": 142881,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4c7e45e0ade833dd19b3b16ce222dda7bcd04573"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G2 XT107879/LAYOUT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b2facfc06a641473a59fb5a154e534ced9a292ad",
+    "size": 147230,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b2facfc06a641473a59fb5a154e534ced9a292ad"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G20 XT2128",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "5472be76a1707eed65845154613d5e0c396a780c",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/5472be76a1707eed65845154613d5e0c396a780c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G20 XT2128/g20-pwr-lay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8f156064237c22a3e45dbf7114684cc8a3d2794c",
+    "size": 119158,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/8f156064237c22a3e45dbf7114684cc8a3d2794c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G20 XT2128/g20pwr.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "74e6d0e899a8128f8f9c887ba4f71efdc6f1df55",
+    "size": 907100,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/74e6d0e899a8128f8f9c887ba4f71efdc6f1df55"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G200 5g XT2175",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ce9d535da1bc4e7ac19722b93843c047917214d5",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ce9d535da1bc4e7ac19722b93843c047917214d5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G200 5g XT2175/G200lay_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "00aafbeedab8a9d928f3ba42276d09ba34f74af6",
+    "size": 481896,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/00aafbeedab8a9d928f3ba42276d09ba34f74af6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G200 5g XT2175/XT2175-xg200_5G)sch-compactado.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1b941bb5f94ffac114c3190fc8e66697da4d2f85",
+    "size": 1706905,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/1b941bb5f94ffac114c3190fc8e66697da4d2f85"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "2287f5b18e3b128c9d6a92392652ce92359d1a6d",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/2287f5b18e3b128c9d6a92392652ce92359d1a6d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/INFO_HARDWARE",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "35cfc59a8cd0fc69be6c65aa96d911f7a08b1aba",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/35cfc59a8cd0fc69be6c65aa96d911f7a08b1aba"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/INFO_HARDWARE/CHARGER-MOTO_G22-3313.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5767195c512837783bdf92517cdd2d0465b40718",
+    "size": 2778165,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/5767195c512837783bdf92517cdd2d0465b40718"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/INFO_HARDWARE/LCD-MOTO_G22-7081.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ccb920e7a661c8cf0329ec8f29e789f1b6e690a3",
+    "size": 2737250,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ccb920e7a661c8cf0329ec8f29e789f1b6e690a3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/INFO_HARDWARE/LIGHT-MOTO_G22-8386.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "51023d13b79720569864ca9aa8d50ac8ba4ec17c",
+    "size": 2734364,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/51023d13b79720569864ca9aa8d50ac8ba4ec17c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/INFO_HARDWARE/TOUCH-MOTO_G22-9884.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7c4c2ffb336c18f4c6accf84c02ec460e1cefca4",
+    "size": 2744806,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7c4c2ffb336c18f4c6accf84c02ec460e1cefca4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/P410_MB_V1.0_SILK_20211206.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b5222c1f6673d5cebf007d0b261f7ad16f4eeaef",
+    "size": 706770,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b5222c1f6673d5cebf007d0b261f7ad16f4eeaef"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G22 XT2231/P410_Main_SCH_V1.0-_20211203_PVT.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c6c12ebcfa0fae80f5b385a4cbf3f5570a575259",
+    "size": 1924219,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c6c12ebcfa0fae80f5b385a4cbf3f5570a575259"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G23 XT-2333",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "1d48faf80d7c0c26a08e7d1813facf70d42ec980",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/1d48faf80d7c0c26a08e7d1813facf70d42ec980"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G23 XT-2333/XT2333-x_(Moto_g23_-_Penang+___+_CA)_MB_Component_Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2c88fd6a31a7295b76e2653b0136ea218d2f4086",
+    "size": 4834935,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2c88fd6a31a7295b76e2653b0136ea218d2f4086"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G23 XT-2333/XT2333-x_(Moto_g23_-_Penang+___+_CA)_MB_Schematics_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fcfec29e50de36452904fc58e4b1847926ebfc01",
+    "size": 660613,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fcfec29e50de36452904fc58e4b1847926ebfc01"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 POWER-XT2425",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "cdfeefc7808e3e8b67fa58c527aec341a9c0546e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/cdfeefc7808e3e8b67fa58c527aec341a9c0546e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 POWER-XT2425/XT2423-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df3e13a0938fe6889f2f458f6d98069b4721c3e9",
+    "size": 1213609,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/df3e13a0938fe6889f2f458f6d98069b4721c3e9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 POWER-XT2425/XT2423-xMANUAL.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "49496754bb18aeb3ac517b1531820aa58370f2fc",
+    "size": 4157470,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/49496754bb18aeb3ac517b1531820aa58370f2fc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 POWER-XT2425/XT2423-xSCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "35f0d5f3c9ad69fb8c6010caab1c608f7754e32d",
+    "size": 1392710,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/35f0d5f3c9ad69fb8c6010caab1c608f7754e32d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 XT2423",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "cdfeefc7808e3e8b67fa58c527aec341a9c0546e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/cdfeefc7808e3e8b67fa58c527aec341a9c0546e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 XT2423/XT2423-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df3e13a0938fe6889f2f458f6d98069b4721c3e9",
+    "size": 1213609,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/df3e13a0938fe6889f2f458f6d98069b4721c3e9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 XT2423/XT2423-xMANUAL.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "49496754bb18aeb3ac517b1531820aa58370f2fc",
+    "size": 4157470,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/49496754bb18aeb3ac517b1531820aa58370f2fc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G24 XT2423/XT2423-xSCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "35f0d5f3c9ad69fb8c6010caab1c608f7754e32d",
+    "size": 1392710,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/35f0d5f3c9ad69fb8c6010caab1c608f7754e32d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G3 TURBO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "e203cc13d1561d7ce12181030c1a7607392a6744",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/e203cc13d1561d7ce12181030c1a7607392a6744"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G3 TURBO/G3TURBO%20(16%20GB).pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c1f74e7e7a8426e95365c039703144c320dc432b",
+    "size": 108633,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c1f74e7e7a8426e95365c039703144c320dc432b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G3 TURBO/G3TURBO-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d363cf1e4be8acfa5a2ac038ecb3f986f49456d6",
+    "size": 488362,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d363cf1e4be8acfa5a2ac038ecb3f986f49456d6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G30 XT2129",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "23e977004db7bb1fc509a805242c86e266ee11fb",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/23e977004db7bb1fc509a805242c86e266ee11fb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G30 XT2129/g30-lay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4fe889edc9b217c2745b7b8801f64ccd2e9cfbc7",
+    "size": 1658309,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4fe889edc9b217c2745b7b8801f64ccd2e9cfbc7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G30 XT2129/g30-sch.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a47e393dc43131d828c505dc7a3b0d2ee1cba536",
+    "size": 972197,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a47e393dc43131d828c505dc7a3b0d2ee1cba536"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G31 XT2173",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "e9f1d6a4f9a70aec50de817df297392d73cec379",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/e9f1d6a4f9a70aec50de817df297392d73cec379"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G31 XT2173/XT2173 LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "768aaec81d7007c08ae9b2543a33ec1d17553e71",
+    "size": 1808060,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/768aaec81d7007c08ae9b2543a33ec1d17553e71"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G31 XT2173/XT2173 SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "49783d88801405204b4be3e63607b7c02202a8d2",
+    "size": 1775466,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/49783d88801405204b4be3e63607b7c02202a8d2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G32 XT2235 (4G)",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "790cd64b22bbbc33fbb596ff7caf47ee34d35fb1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/790cd64b22bbbc33fbb596ff7caf47ee34d35fb1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G32 XT2235 (4G)/XT2235 LAY 1.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "504b643bd4bc9ee0223073789d57468f1f8ba0ec",
+    "size": 3817696,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/504b643bd4bc9ee0223073789d57468f1f8ba0ec"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G32 XT2235 (4G)/XT2235 SCH 1.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f619c8b86bebb64a1fb7b022a615bcc8c74fd8da",
+    "size": 22210169,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f619c8b86bebb64a1fb7b022a615bcc8c74fd8da"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 PLUS XT 1626",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "957f145e26acdb37fb5ea58da6bcc27b180c9b2e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/957f145e26acdb37fb5ea58da6bcc27b180c9b2e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 PLUS XT 1626/g4%20plus.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "64d32dfed917a4185728f29aa29673025895b6b6",
+    "size": 4115956,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/64d32dfed917a4185728f29aa29673025895b6b6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 PLUS XT 1626/layoult%20g4%20plus.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "35ffd27117f23c590572c6b92493889acbd3ff12",
+    "size": 106530,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/35ffd27117f23c590572c6b92493889acbd3ff12"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 PLUS XT 1640",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "957f145e26acdb37fb5ea58da6bcc27b180c9b2e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/957f145e26acdb37fb5ea58da6bcc27b180c9b2e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 PLUS XT 1640/g4%20plus.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "64d32dfed917a4185728f29aa29673025895b6b6",
+    "size": 4115956,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/64d32dfed917a4185728f29aa29673025895b6b6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 PLUS XT 1640/layoult%20g4%20plus.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "35ffd27117f23c590572c6b92493889acbd3ff12",
+    "size": 106530,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/35ffd27117f23c590572c6b92493889acbd3ff12"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 XT1626",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ac18bbffb18a227885c4653d2fc8b3584ccccd3b",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ac18bbffb18a227885c4653d2fc8b3584ccccd3b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 XT1626/XT1626%20layoult.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "35ffd27117f23c590572c6b92493889acbd3ff12",
+    "size": 106530,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/35ffd27117f23c590572c6b92493889acbd3ff12"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G4 XT1626/XT1626%20schematics.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a6c405c86e3ff51608f261af443a294827017e99",
+    "size": 4115727,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a6c405c86e3ff51608f261af443a294827017e99"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G41 XT-2167",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "c4609e8ea777d5a340692c738509d190ccff9f7e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/c4609e8ea777d5a340692c738509d190ccff9f7e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G41 XT-2167/XT2167-x_(Corfu)_Component__Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6ccace531e6963b0def40ee7f5fad1359f94e1ec",
+    "size": 3017525,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6ccace531e6963b0def40ee7f5fad1359f94e1ec"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5 PLUS XT1680",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "7318542042942e8cbb2e359ee08f17135d6f35d7",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/7318542042942e8cbb2e359ee08f17135d6f35d7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5 PLUS XT1680/Schematic.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bb6f795921656f0ed29252df13c98500675ba9a3",
+    "size": 4565383,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/bb6f795921656f0ed29252df13c98500675ba9a3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5 PLUS XT1686",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "e58158077a1a4352e23429a1ba0bd783f6da01da",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/e58158077a1a4352e23429a1ba0bd783f6da01da"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5 PLUS XT1686/XT1686-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3b99da359474eb8a9a9761c4ea123187802706cb",
+    "size": 4564902,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3b99da359474eb8a9a9761c4ea123187802706cb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G51 XT2171",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ae2e5e40c8938851f1a308c0ce953632407a4f06",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ae2e5e40c8938851f1a308c0ce953632407a4f06"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G51 XT2171/XT2171-x_(Cyprus_5G_-_Moto_G51)_MB_Component_Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43701af59f10e04babd1142f1a7d12062cfa48dd",
+    "size": 6305656,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/43701af59f10e04babd1142f1a7d12062cfa48dd"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G51 XT2171/XT2171-x_(Cyprus_5G_-_Moto_G51)_MB_Schematics_L3_repair_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3925ed82c5f767d88ecc33438fc2770f05b6e7df",
+    "size": 716116,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3925ed82c5f767d88ecc33438fc2770f05b6e7df"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G52 XT2221",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "861f4751dcf3bf3952369afc158ba643905f1e36",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/861f4751dcf3bf3952369afc158ba643905f1e36"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G52 XT2221/XT2221_lay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9efea346d8aa656e530b6a1d933986e9a2604f69",
+    "size": 7305872,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9efea346d8aa656e530b6a1d933986e9a2604f69"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G52 XT2221/XT2221_sch_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "29ede2317cedaf1de8fe37687ba0132f46bb4873",
+    "size": 963555,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/29ede2317cedaf1de8fe37687ba0132f46bb4873"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G52j 5G XT2219",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "6dbb9914cea158e1e08dce7d86e297010084f605",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/6dbb9914cea158e1e08dce7d86e297010084f605"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G52j 5G XT2219/XT2219-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d97b7b99dec9ff4787d31b9f99b85f893633dc18",
+    "size": 6586699,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d97b7b99dec9ff4787d31b9f99b85f893633dc18"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G52j 5G XT2219/XT2219-SCH_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f5aa756283a784e26252fba785e250eb9bff18bc",
+    "size": 1045329,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f5aa756283a784e26252fba785e250eb9bff18bc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G53 5G XT2335",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "eefd491ce51be51e45f89e222508ab4c2d65f2bd",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/eefd491ce51be51e45f89e222508ab4c2d65f2bd"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G53 5G XT2335/XT2335-x_(Moto_g53_5G_-_Penang5G)_MB_Component_Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fd048b5ae4c802c520d46c9eacdf2f3dc1d4232a",
+    "size": 7898225,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fd048b5ae4c802c520d46c9eacdf2f3dc1d4232a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G53 5G XT2335/XT2335-x_(Moto_g53_5G_-_Penang5G)_MB_Schematics_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ecad0c68ba19f539e1dd7dd3ca6b631c00e17931",
+    "size": 1294004,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ecad0c68ba19f539e1dd7dd3ca6b631c00e17931"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G54 5g XT2343",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "6c46a27163bd52923ef753faa69ea3c42efa702b",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/6c46a27163bd52923ef753faa69ea3c42efa702b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G54 5g XT2343/XT2343-x_(Moto_g54_5G_-_Cancun5G)_MB_Component__Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f3f1c2b4fa07356718002da475738d003111172d",
+    "size": 5082310,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f3f1c2b4fa07356718002da475738d003111172d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G54 5g XT2343/XT2343-x_(Moto_g54_5G_-_Cancun5G)_MB_Schematics_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b32454c09dacc2faaa2f14ba98f33bf27c45e363",
+    "size": 8134317,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b32454c09dacc2faaa2f14ba98f33bf27c45e363"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5S PLUS XT1802",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "f2ba09c07bb5905045c55ac98ff5634571d48895",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/f2ba09c07bb5905045c55ac98ff5634571d48895"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5S PLUS XT1802/G5S-PLUS-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6b93a5cc55fb18ea3d908a1dc222311519df2659",
+    "size": 576995,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6b93a5cc55fb18ea3d908a1dc222311519df2659"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5S PLUS XT1802/G5sPLUS-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0b008556c7349dd73695d06dffa4e3fabbfff093",
+    "size": 1191685,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/0b008556c7349dd73695d06dffa4e3fabbfff093"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5S XT1792",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "37bac781f51468bf2f60704ddea68268a8dc747a",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/37bac781f51468bf2f60704ddea68268a8dc747a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G5S XT1792/XT1802-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7c569fd745bdf7abc1f50198b5b287722db7d1cb",
+    "size": 968671,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7c569fd745bdf7abc1f50198b5b287722db7d1cb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLAY XT1922",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "6409e38f74d16a87208888e82c169111d6579ec3",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/6409e38f74d16a87208888e82c169111d6579ec3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLAY XT1922/G6-PLAY-SUBLAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "45b345c8b8eda9a36d9ed79b2e035e78e56955aa",
+    "size": 208711,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/45b345c8b8eda9a36d9ed79b2e035e78e56955aa"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLAY XT1922/G6-PLAY-SUBSCBH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a4762e067c0a52450a282314cf9b1da6b3f56c11",
+    "size": 60877,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a4762e067c0a52450a282314cf9b1da6b3f56c11"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLAY XT1922/G6PLAY-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e7ab9c586e56b2b3e592bb069ed0ca3048905a31",
+    "size": 1051876,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e7ab9c586e56b2b3e592bb069ed0ca3048905a31"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLAY XT1922/G6PLAY-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9c92c933d12d4c9d0ce7afd6fcc53649c0e1e602",
+    "size": 1397639,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9c92c933d12d4c9d0ce7afd6fcc53649c0e1e602"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLUS XT1926",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "34a34461d7b1699bf93d5ccd1d162e1c82219c0f",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/34a34461d7b1699bf93d5ccd1d162e1c82219c0f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLUS XT1926/G6+-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fbc43f184c447c9130f29b12800e5f0170151c4c",
+    "size": 2216886,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fbc43f184c447c9130f29b12800e5f0170151c4c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 PLUS XT1926/G6-PLUS.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d183db3b6942d99f007192ae1e7056888ec29eab",
+    "size": 1097472,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/d183db3b6942d99f007192ae1e7056888ec29eab"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 XT1925",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "6ee6e5b14b8f93db443324b273384bf91c1d3a4a",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/6ee6e5b14b8f93db443324b273384bf91c1d3a4a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 XT1925/G6-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9009f38e2e008a72f14e13901070a7d5868260e0",
+    "size": 1156773,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9009f38e2e008a72f14e13901070a7d5868260e0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G6 XT1925/layout%20g6.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a0ffb0e5ebaef782be75ff6d85f46c3e69635e44",
+    "size": 12222255,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a0ffb0e5ebaef782be75ff6d85f46c3e69635e44"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G60 XT2135",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "1e474f251f259181b2523cee9c9b4e3eeaacd2b9",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/1e474f251f259181b2523cee9c9b4e3eeaacd2b9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G60 XT2135/G60-LAY%20(1).pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2cecfbbaf43b40d0f4c63814df3529fff7f4d366",
+    "size": 2342867,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/2cecfbbaf43b40d0f4c63814df3529fff7f4d366"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G60 XT2135/g60-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bb88a87c283e6ea2102ee9120595276a58c59ae5",
+    "size": 1552025,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/bb88a87c283e6ea2102ee9120595276a58c59ae5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G60S XT2133",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "3d0f2f1c942705ea7bb8e1b948c17f5c6eb58d5f",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/3d0f2f1c942705ea7bb8e1b948c17f5c6eb58d5f"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G60S XT2133/LAYOUT%20G60S.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ed1b5aefddbcda3cec898507c13fc79603a19a27",
+    "size": 2119402,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ed1b5aefddbcda3cec898507c13fc79603a19a27"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G60S XT2133/SCHEMATC%20G60S.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e29e3873b511f6d643a23c1d4e6d2760e6a9f2b4",
+    "size": 748161,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e29e3873b511f6d643a23c1d4e6d2760e6a9f2b4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G62 XT-2223",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "f8a38aff6df6b727a2ea245f394bf3aee3d8f535",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/f8a38aff6df6b727a2ea245f394bf3aee3d8f535"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G62 XT-2223/XT2223-x_(Rhode5G_-_Moto_g62_5G)_MB_Component_Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "37b5da08c7619dd9526ca8bc909c6c06dd188a7e",
+    "size": 4777402,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/37b5da08c7619dd9526ca8bc909c6c06dd188a7e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G62 XT-2223/XT2223-x_(Rhode5G_-_Moto_g62_5G)_MB_Schematics_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3e7720a514f874555364c182c719675a604a44d2",
+    "size": 660301,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3e7720a514f874555364c182c719675a604a44d2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLAY XT1952",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "95f599ff001df90d451f410b0f77f781a6e56ac8",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/95f599ff001df90d451f410b0f77f781a6e56ac8"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLAY XT1952/G7-PLAY-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fadeacd33b8e1c3bf163cc023c84b59d11f95a21",
+    "size": 1002526,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fadeacd33b8e1c3bf163cc023c84b59d11f95a21"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLAY XT1952/G7-PLAY-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "65dd12892cafdbb697a3506b6086dfe3bf0bf504",
+    "size": 1264333,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/65dd12892cafdbb697a3506b6086dfe3bf0bf504"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLUS XT1965",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b6cf93982953df833b97a0414f5cb00b8df098fc",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b6cf93982953df833b97a0414f5cb00b8df098fc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLUS XT1965/G7+-LAYB.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f6b26b672c7773b07f3f3f045cdf077d33e5fa96",
+    "size": 966434,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f6b26b672c7773b07f3f3f045cdf077d33e5fa96"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLUS XT1965/G7+.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6077340f7d26281349ee170da3e7a4ca0114b602",
+    "size": 5054880,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6077340f7d26281349ee170da3e7a4ca0114b602"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 PLUS XT1965/G7+LAYA.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b79dbf7b6e1e30e8a33bdf6a2c70d457ffe0b492",
+    "size": 1334360,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b79dbf7b6e1e30e8a33bdf6a2c70d457ffe0b492"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 POWER XT1955",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "81c1db6cded65b66203c134ffa6b51f9e0bba6d9",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/81c1db6cded65b66203c134ffa6b51f9e0bba6d9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 POWER XT1955/G7POWER-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "41109485190b4845e04863e06209de5ed1531b12",
+    "size": 1238340,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/41109485190b4845e04863e06209de5ed1531b12"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G7 POWER XT1955/g7%20power.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "69e7a8e48ac5ad5a081b0ff0fbb7e58657ff7cd7",
+    "size": 944347,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/69e7a8e48ac5ad5a081b0ff0fbb7e58657ff7cd7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G71",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "334a6986b6a44df34f4d727038f57eadf4d951c6",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/334a6986b6a44df34f4d727038f57eadf4d951c6"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G71/XT2169-1_(Corfu5G_-_Moto_g71)_Component__Location_L3_repair.pdf.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "607fbd8e3c403b0b4768d43defa2825f33cae614",
+    "size": 5043100,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/607fbd8e3c403b0b4768d43defa2825f33cae614"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G71/XT2169-1_(Corfu5G_-_Moto_g71)_Schematics_L3_repair.pdf-compactado.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "695399189e1f1fe134ff0d7f1a97cf10e048b3ab",
+    "size": 2195979,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/695399189e1f1fe134ff0d7f1a97cf10e048b3ab"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G72 XT2255",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "528bbf4ee4f19d874e3b02ec279a50a5fe16f3f2",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/528bbf4ee4f19d874e3b02ec279a50a5fe16f3f2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G72 XT2255/XT2255-x_(Moto_g72_-_Victoria)_MB_Component_Location_L3_repair_(1).pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "94e836668b84fe00905970cc73bd2f56fe310d0b",
+    "size": 3548491,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/94e836668b84fe00905970cc73bd2f56fe310d0b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G72 XT2255/XT2255-x_(Moto_g72_-_Victoria)_MB_Schematics_L3_repair_(1).pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "add43f1b9fc90a360b2f7b094a598e20e9c18228",
+    "size": 20266144,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/add43f1b9fc90a360b2f7b094a598e20e9c18228"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 PLAY XT2015",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "71eb5c2ad812db07fbe04d47ec931f68e076b1ca",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/71eb5c2ad812db07fbe04d47ec931f68e076b1ca"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 PLAY XT2015/G8%20play_LAYk.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ed0e88263795fd7c6c24bdf7cd4d3678362a5dcb",
+    "size": 1059355,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ed0e88263795fd7c6c24bdf7cd4d3678362a5dcb"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 PLAY XT2015/G8%20play_watermark.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1191ad0dc2e98414776e1b66c4612a7031203a07",
+    "size": 9322662,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/1191ad0dc2e98414776e1b66c4612a7031203a07"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 PLUS XT2019",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "a57d9e341f1a1df67043fb64fdcc7787b43e8e91",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/a57d9e341f1a1df67043fb64fdcc7787b43e8e91"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 PLUS XT2019/G8+-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f7e2c5f257c956fc9ebe5180ded8bfbe5c28d91a",
+    "size": 5095189,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f7e2c5f257c956fc9ebe5180ded8bfbe5c28d91a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 PLUS XT2019/G8+-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e5dc91156d552e3cea2c957f1cc11f5a80b7af6d",
+    "size": 11094795,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e5dc91156d552e3cea2c957f1cc11f5a80b7af6d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 POWER LITE",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "d9e6112f225bc4788749dfbae8040ae96d1641f5",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/d9e6112f225bc4788749dfbae8040ae96d1641f5"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 POWER LITE/G8PLITE-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fe792c641fb553c335c00cceb145f6bfdb2ceeb0",
+    "size": 2277762,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fe792c641fb553c335c00cceb145f6bfdb2ceeb0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 POWER LITE/G8PLITE-SCH_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b1fa43301f34e2e8078503b97d8b1bfaefb26bbc",
+    "size": 381412,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b1fa43301f34e2e8078503b97d8b1bfaefb26bbc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 POWER XT2055",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "bfb968cc7e9480cf05b5503d64277c451924ce8b",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/bfb968cc7e9480cf05b5503d64277c451924ce8b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 POWER XT2055/G8POWER%20LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3137003111734063190c0b166a59108bddd00049",
+    "size": 1955712,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3137003111734063190c0b166a59108bddd00049"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G8 POWER XT2055/G8POWER-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b38d736a6cec8c9ec234457de26163eceb282f69",
+    "size": 2905189,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b38d736a6cec8c9ec234457de26163eceb282f69"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G82 XT-2225",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "08c52fc3949f9c225888cdaa98bca5aa173149e0",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/08c52fc3949f9c225888cdaa98bca5aa173149e0"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G82 XT-2225/XT2225-1_(Rhode5G+_22_-_Moto_g82_5G)_MB_Component__Location_L3_repair.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ac9596893db30529a2d68a802981f307edbb45aa",
+    "size": 6885221,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ac9596893db30529a2d68a802981f307edbb45aa"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G82 XT-2225/XT2225-1_(Rhode5G+_22_-_Moto_g82_5G)_MB_Schematics_L3_repair_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "009b9eac6a316fd7a50756521b0fbbebe8932f41",
+    "size": 7157358,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/009b9eac6a316fd7a50756521b0fbbebe8932f41"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G84 XT2347",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "e5a3d61d53706565d93541974a19ce56e949908e",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/e5a3d61d53706565d93541974a19ce56e949908e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G84 XT2347/G84_LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a7f9073b22cb967a75d1475333e0ba61d317788b",
+    "size": 7640898,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/a7f9073b22cb967a75d1475333e0ba61d317788b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G84 XT2347/G84_SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "30a9c3149487e6f2991a73ecb1819f5dedd2c047",
+    "size": 582136,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/30a9c3149487e6f2991a73ecb1819f5dedd2c047"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G84 XT2347/G84_TROBLE.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e688be6105a4e40ae8f05513e9e200ffd88267e9",
+    "size": 4733023,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e688be6105a4e40ae8f05513e9e200ffd88267e9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 PLAY XT2083",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "dcc576b6277afd5a22ed0a6b0ff1624b286cc0c1",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/dcc576b6277afd5a22ed0a6b0ff1624b286cc0c1"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 PLAY XT2083/G9-PLAY-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6277cef0d2efdeeeeb81ce48f93b27c0cfc79c47",
+    "size": 2534104,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6277cef0d2efdeeeeb81ce48f93b27c0cfc79c47"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 PLAY XT2083/G9-PLAY-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c4437fe5858779abc42e5717711c57fec61c4f8c",
+    "size": 658194,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c4437fe5858779abc42e5717711c57fec61c4f8c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 PLUS XT2087",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "3da6c6d4a4785af19886098a067a3f5abb001496",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/3da6c6d4a4785af19886098a067a3f5abb001496"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 PLUS XT2087/G9+-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4228fc47224c560840c999e580032db98d861cfe",
+    "size": 958536,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4228fc47224c560840c999e580032db98d861cfe"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 PLUS XT2087/G9+-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cc29214abd15a4705953b9ce70be8a3aa74e1191",
+    "size": 944981,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/cc29214abd15a4705953b9ce70be8a3aa74e1191"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 POWER XT2091-4",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "746f225c45bf6aab93846e7f0016251d810d00c3",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/746f225c45bf6aab93846e7f0016251d810d00c3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 POWER XT2091-4/g9power_lay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e817134abe4347a2e3d4cfae543f5c40c8d4535b",
+    "size": 4361379,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e817134abe4347a2e3d4cfae543f5c40c8d4535b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/G9 POWER XT2091-4/g9power_sch_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8748f7af2bffb501a2bbdd2cfb0f29fa51a29b5e",
+    "size": 677479,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/8748f7af2bffb501a2bbdd2cfb0f29fa51a29b5e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MAX TURBO XT1225",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "42d101f3704b351b802a0785c5866bf570daa417",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/42d101f3704b351b802a0785c5866bf570daa417"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MAX TURBO XT1225/MAX-TURBO_compressed.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e061cb6be97fe76e3241bc90cb28392428528e92",
+    "size": 2759906,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e061cb6be97fe76e3241bc90cb28392428528e92"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E20",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "a533119be6b4d013fa9cc4856dfff8e14ca3e5dd",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/a533119be6b4d013fa9cc4856dfff8e14ca3e5dd"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E20/XT2155-x_(sch.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "acff1fb576725e3176cf1fc5da55e64435a8c452",
+    "size": 18210948,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/acff1fb576725e3176cf1fc5da55e64435a8c452"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E20/XT2155-x_layr.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5dacf34ec27a63196898d0f64307705c055018dd",
+    "size": 2743091,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/5dacf34ec27a63196898d0f64307705c055018dd"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E22",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "1de7fe29b15fe032711d2bbf880839e4643253b2",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/1de7fe29b15fe032711d2bbf880839e4643253b2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E22/E22-MAIN-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b0774cee3272a0e8312b0211e64ff6de48be0041",
+    "size": 2752894,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/b0774cee3272a0e8312b0211e64ff6de48be0041"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E22/E22_MAIN_LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "39eae4f423f58747468c9ee5a632b3ed1f5b4912",
+    "size": 19647708,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/39eae4f423f58747468c9ee5a632b3ed1f5b4912"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E22i",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ba1996ae488720da4a1952ecb8720d2f45d40d06",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ba1996ae488720da4a1952ecb8720d2f45d40d06"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E22i/E22i_MAIN_LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fcdc1ed28807db67994fc210a8d84ac18d7717f4",
+    "size": 19652911,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fcdc1ed28807db67994fc210a8d84ac18d7717f4"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO E22i/E22i_MAIN_SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c40c982083392a965273e0e4a7bb89ca61e522b2",
+    "size": 2764071,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/c40c982083392a965273e0e4a7bb89ca61e522b2"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO ONE XT1941",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "f1d1fad57ab4a33f696206818877f9d76944f556",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/f1d1fad57ab4a33f696206818877f9d76944f556"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO ONE XT1941/MOTO-ONE-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f2d17a5cd2a3dec7a4371d85379d45c54293518a",
+    "size": 3362672,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/f2d17a5cd2a3dec7a4371d85379d45c54293518a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO ONE XT1941/MOTO-ONE-SUB-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "361c509386d5d6573127cf7888da17ce90fa217a",
+    "size": 13379228,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/361c509386d5d6573127cf7888da17ce90fa217a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO ONE XT1941/MOTO-ONE-SUBLAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6169569b3e1c85e1a10006e7c16a4f5e5489d212",
+    "size": 714451,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6169569b3e1c85e1a10006e7c16a4f5e5489d212"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/MOTO ONE XT1941/MT-ONE-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fe1604773df97e81bd617610303893da46323c5c",
+    "size": 668486,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/fe1604773df97e81bd617610303893da46323c5c"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE 5G ACE XT2113",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "c24d5bb5eee306aeaf69f96992912f13a1dcf068",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/c24d5bb5eee306aeaf69f96992912f13a1dcf068"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE 5G ACE XT2113/CAMADAS DOCK.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "76167ebe20d8551b168ab5bb8f8058ffd2391e9e",
+    "size": 147633,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/76167ebe20d8551b168ab5bb8f8058ffd2391e9e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE 5G ACE XT2113/ONE%20ACE%205G%20LAYDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ff1e4cb1ad6e20c60271fd9c34a55a9af0ab302e",
+    "size": 235589,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/ff1e4cb1ad6e20c60271fd9c34a55a9af0ab302e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE 5G ACE XT2113/ONE%20ACE%205G.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e143e8dc2bf8225311a9f1073303ba71a0835704",
+    "size": 2412000,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e143e8dc2bf8225311a9f1073303ba71a0835704"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE ACTION XT-2013",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "40636b93490642a8705854a8be1714d1d24169a3",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/40636b93490642a8705854a8be1714d1d24169a3"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE ACTION XT-2013/One Action XT2013_lay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3598f13b0542503b335cb9fedcd4c2b1038912d9",
+    "size": 1313012,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/3598f13b0542503b335cb9fedcd4c2b1038912d9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE ACTION XT-2013/One Action XT2013_sch.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e126f8be14944e0e5865292558538d321a64d7e7",
+    "size": 1887702,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e126f8be14944e0e5865292558538d321a64d7e7"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE FUZION XT2073",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "fb61162c6a5a0540993a8612c0076148fb74eb4d",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/fb61162c6a5a0540993a8612c0076148fb74eb4d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE FUZION XT2073/ONEFUZION-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cfa125c64c47425e1617c0474fbff6290072108d",
+    "size": 1593331,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/cfa125c64c47425e1617c0474fbff6290072108d"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE FUZION XT2073/XT2073_Motorola%20one%20fusion.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6f79d09e900d073f55166857e33e231293878a38",
+    "size": 15818053,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/6f79d09e900d073f55166857e33e231293878a38"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE HYPER XT2027",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "b6d1158a40a3b8f1974c5ff0791648082f6064be",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/b6d1158a40a3b8f1974c5ff0791648082f6064be"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE HYPER XT2027/ONE-HYPER-LAYDC.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "69f596e9ae04f1a3287a747acf328bd346749a4b",
+    "size": 1911759,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/69f596e9ae04f1a3287a747acf328bd346749a4b"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE HYPER XT2027/ONE-HYPESCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bb203e2da5367da41c1b1cb9bee37d678150b226",
+    "size": 4552347,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/bb203e2da5367da41c1b1cb9bee37d678150b226"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE MACRO",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "ce09a45ab250e540ae6d481ebdfc870ed6a384f9",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/ce09a45ab250e540ae6d481ebdfc870ed6a384f9"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE MACRO/XT2016-2_lay.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9f5fd13b9448854a0148bb89dbc23cffdb10ee6e",
+    "size": 841033,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/9f5fd13b9448854a0148bb89dbc23cffdb10ee6e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE MACRO/XT2016-2_sch.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e096f4b421860e9e61d7a30eb2582901770e521e",
+    "size": 771410,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e096f4b421860e9e61d7a30eb2582901770e521e"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE VISION XT1970",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "daee3b495671520cf26a2aee09fbeb58dfb14537",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/daee3b495671520cf26a2aee09fbeb58dfb14537"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE VISION XT1970/ONE-VISION-LAY.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7121d2b384896e37e02c3a2012aae9cc1622f7bc",
+    "size": 4736868,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/7121d2b384896e37e02c3a2012aae9cc1622f7bc"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE VISION XT1970/ONE-VISION-SCH.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "44f41c454053b986ba7cae760292fd2570a91b52",
+    "size": 4939284,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/44f41c454053b986ba7cae760292fd2570a91b52"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE ZOOM XT2010",
+    "mode": "040000",
+    "type": "tree",
+    "sha": "1b26d7950f95c59ec8ca2dfdcc2548efba688d78",
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/1b26d7950f95c59ec8ca2dfdcc2548efba688d78"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE ZOOM XT2010/lay_XT2010-1.pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4db1d8e55695b38cba9bee2e3a3c68a04a33187a",
+    "size": 2923531,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/4db1d8e55695b38cba9bee2e3a3c68a04a33187a"
+  },
+  {
+    "path": "ESQUEMA ELETRICO/MOTOROLA/ONE ZOOM XT2010/sch_XT2010-1 .pdf",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "958c21a40e4cec20829dd447a35bc290633bcfed",
+    "size": 1439160,
+    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/958c21a40e4cec20829dd447a35bc290633bcfed"
   },
   {
     "path": "ESQUEMA ELETRICO/SAMSUNG",
@@ -197,21 +3045,6 @@
   },
   {
     "path": "ESQUEMA ELETRICO/SAMSUNG/1.txt",
-    "mode": "100644",
-    "type": "blob",
-    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
-    "size": 0,
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
-  },
-  {
-    "path": "ESQUEMA ELETRICO/VIVO",
-    "mode": "040000",
-    "type": "tree",
-    "sha": "341e54913a3a43069f2927cc0f703e5a9f730df1",
-    "url": "https://api.github.com/repos/ghenady-tec/bancodedados/git/trees/341e54913a3a43069f2927cc0f703e5a9f730df1"
-  },
-  {
-    "path": "ESQUEMA ELETRICO/VIVO/1.txt",
     "mode": "100644",
     "type": "blob",
     "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
