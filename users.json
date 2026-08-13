@@ -22,21 +22,5 @@
     "email": "a",
     "whatsapp": "a",
     "expiresAt": "2053-07-12T19:49:56.984Z"
-  },
-  {
-    "id": 1780365994005,
-    "username": "c",
-    "password": "c",
-    "email": "c",
-    "whatsapp": "c",
-    "expiresAt": "2026-06-04T02:06:34.005Z"
-  },
-  {
-    "id": 1780366124873,
-    "username": "f",
-    "password": "f",
-    "email": "f",
-    "whatsapp": "f",
-    "expiresAt": "2026-07-22T02:07:41.177Z"
   }
 ]
